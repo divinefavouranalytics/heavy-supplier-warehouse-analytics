@@ -1,5 +1,7 @@
 # Heavy Supplier Warehouse Analytics
 
+Week 1 supply-chain analytics project covering warehouse data profiling, date cleaning, and preparation of 12 datasets for inventory and supplier analysis.
+
 ## Project Overview
 
 This is my Week 1 project for the Heavy Supplier, Inventory and Warehouse Analytics internship. I reviewed the supplied warehouse and supply-chain CSV files, checked their quality, converted the date fields, and saved cleaned copies for the next stage.
