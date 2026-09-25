@@ -1,6 +1,6 @@
-# Week 1 Data Dictionary
+# Data Dictionary
 
-This is a simple guide to the 12 files I reviewed during Week 1. It shows what each file is used for and the main ID fields in it.
+This is a simple guide to the 12 files used in this project. It shows what each file is used for and the main ID fields in it.
 
 ## Table guide
 
@@ -21,8 +21,6 @@ This is a simple guide to the 12 files I reviewed during Week 1. It shows what e
 
 ## Date fields cleaned in Week 1
 
-### Dates
-
 I changed these date columns from text to datetime values in the cleaned files.
 
 | File | Date fields |
@@ -34,6 +32,14 @@ I changed these date columns from text to datetime values in the cleaned files.
 | `purchase_orders_header.csv` | `order_date`, `expected_delivery_date`, `received_date` |
 | `sales_orders_header.csv` | `order_date`, `delivery_date` |
 | `stock_ledger.csv` | `movement_date` |
+
+Note: CSV files can't store a real date type, so every time a cleaned file is loaded again, the date columns need to be converted back to datetime (`parse_dates=[...]`) — they read in as text otherwise.
+
+## Other fields cleaned in Week 1
+
+- `branches.csv` → `warehouse_capacity` was stored as text with the unit attached (e.g. `"45230 sqft"`). Split into a numeric `warehouse_capacity` column and a separate `warehouse_capacity_unit` column.
+- `invoices.csv` → `invoice_id` had 197 duplicate values (the same ID used for two different invoices). Repeats were relabelled with a suffix (e.g. `INV-361583` → `INV-361583-2`) so every ID is unique.
+- `payments.csv` → `payment_id` had 202 duplicate values, same issue and same fix as above.
 
 ## Other useful fields
 
@@ -47,8 +53,28 @@ I changed these date columns from text to datetime values in the cleaned files.
 
 ## Missing-value note
 
-`purchase_orders_header.csv` contains 2,370 blank values in `received_date`. These values were not filled because the related purchase orders were returned, so a received date was not required. The blanks were kept in the cleaned file to preserve the meaning of the original data.
+`purchase_orders_header.csv` contains 2,370 blank values in `received_date`. These values were not filled because the related purchase orders were cancelled, so a received date was not required. The blanks were kept in the cleaned file to preserve the meaning of the original data.
 
-## Week 1 status
+## Merged tables (Week 2)
 
-The cleaned versions of all 12 files are stored in `data/cleaned`. The original files in `data/raw` were left unchanged.
+Two combined tables were built by joining the cleaned files together:
+
+| File | What it contains | Built from |
+|---|---|---|
+| `sales_table.csv` | One row per product sold, with customer, branch, invoice, and payment details attached. | `sales_orders_lines` + `sales_orders_header` + `customers` + `branches` + `invoices` + a payments summary |
+| `purchases_fact_table.csv` | One row per stock movement, with product, inventory, and purchasing details attached. | `products` + `inventory_master` + `stock_ledger` |
+
+## New columns added (Week 2 — Feature Engineering)
+
+| Column | In file | Calculation |
+|---|---|---|
+| `delivery_lead_time_days` | `sales_table.csv` | `delivery_date` − `order_date` |
+| `profit_margin` | `purchases_fact_table.csv` | `unit_price` − `unit_cost` |
+| `total_paid` | `sales_table.csv` | Sum of all payments for that invoice |
+| `number_of_payments` | `sales_table.csv` | Count of payments for that invoice |
+| `last_payment_date` | `sales_table.csv` | Most recent payment date for that invoice |
+| `days_to_pay_an_invoice` | `sales_table.csv` | `last_payment_date` − `invoice_date` |
+
+## Week 1–3 status
+
+The cleaned versions of all 12 files are stored in `data/cleaned`. The original files in `data/raw` were left unchanged. The merged tables are stored in `data/processed`.
