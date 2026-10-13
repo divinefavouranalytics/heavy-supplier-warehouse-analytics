@@ -1,0 +1,2161 @@
+month,product_id,product_name,category,quantity
+2019-01,P001,Hydraulic Pump HP-300,Hydraulic,513
+2019-01,P002,Engine Oil Filter OF-90,Filters,513
+2019-01,P003,Air Filter AF-120,Filters,537
+2019-01,P004,Track Chain TC-45,Undercarriage,865
+2019-01,P005,Fuel Injector FI-220,Engine,607
+2019-01,P006,Alternator ALT-500,Electrical,474
+2019-01,P007,Hydraulic Hose HH-60,Hydraulic,517
+2019-01,P008,Bucket Tooth BT-10,Attachments,586
+2019-01,P009,Starter Motor SM-700,Electrical,578
+2019-01,P010,Turbocharger TB-900,Engine,743
+2019-01,P011,Hydraulic Cylinder HC-200,Hydraulic,747
+2019-01,P012,Brake Pad BP-40,Brakes,609
+2019-01,P013,Seal Kit SK-15,Seals,563
+2019-01,P014,Transmission Assembly TA-800,Transmission,680
+2019-01,P015,Engine Block EB-600,Engine,756
+2019-01,P016,Radiator RD-250,Cooling,606
+2019-01,P017,Fan Belt FB-30,Belts,671
+2019-01,P018,Wheel Rim WR-24,Undercarriage,721
+2019-01,P019,Swing Motor SWM-350,Hydraulic,786
+2019-01,P020,Pivot Pin PP-12,Pins & Bushes,569
+2019-01,P021,Boom Cylinder BC-400,Hydraulic,707
+2019-01,P022,Control Valve CV-75,Hydraulic,731
+2019-01,P023,Idler Wheel IW-55,Undercarriage,846
+2019-01,P024,Track Roller TR-60,Undercarriage,606
+2019-01,P025,Cabin Glass CG-20,Cabin,543
+2019-01,P026,Grease Cartridge GC-5,Lubricants,558
+2019-01,P027,O-Ring Set OR-50,Seals,534
+2019-01,P028,Light Assembly LA-18,Electrical,650
+2019-01,P029,Pressure Sensor PS-90,Sensors,682
+2019-01,P030,Fuel Pump FP-350,Engine,525
+2019-02,P001,Hydraulic Pump HP-300,Hydraulic,429
+2019-02,P002,Engine Oil Filter OF-90,Filters,487
+2019-02,P003,Air Filter AF-120,Filters,656
+2019-02,P004,Track Chain TC-45,Undercarriage,517
+2019-02,P005,Fuel Injector FI-220,Engine,566
+2019-02,P006,Alternator ALT-500,Electrical,623
+2019-02,P007,Hydraulic Hose HH-60,Hydraulic,612
+2019-02,P008,Bucket Tooth BT-10,Attachments,515
+2019-02,P009,Starter Motor SM-700,Electrical,465
+2019-02,P010,Turbocharger TB-900,Engine,370
+2019-02,P011,Hydraulic Cylinder HC-200,Hydraulic,552
+2019-02,P012,Brake Pad BP-40,Brakes,480
+2019-02,P013,Seal Kit SK-15,Seals,445
+2019-02,P014,Transmission Assembly TA-800,Transmission,477
+2019-02,P015,Engine Block EB-600,Engine,598
+2019-02,P016,Radiator RD-250,Cooling,343
+2019-02,P017,Fan Belt FB-30,Belts,565
+2019-02,P018,Wheel Rim WR-24,Undercarriage,589
+2019-02,P019,Swing Motor SWM-350,Hydraulic,487
+2019-02,P020,Pivot Pin PP-12,Pins & Bushes,650
+2019-02,P021,Boom Cylinder BC-400,Hydraulic,486
+2019-02,P022,Control Valve CV-75,Hydraulic,469
+2019-02,P023,Idler Wheel IW-55,Undercarriage,536
+2019-02,P024,Track Roller TR-60,Undercarriage,474
+2019-02,P025,Cabin Glass CG-20,Cabin,406
+2019-02,P026,Grease Cartridge GC-5,Lubricants,434
+2019-02,P027,O-Ring Set OR-50,Seals,441
+2019-02,P028,Light Assembly LA-18,Electrical,560
+2019-02,P029,Pressure Sensor PS-90,Sensors,567
+2019-02,P030,Fuel Pump FP-350,Engine,414
+2019-03,P001,Hydraulic Pump HP-300,Hydraulic,642
+2019-03,P002,Engine Oil Filter OF-90,Filters,666
+2019-03,P003,Air Filter AF-120,Filters,601
+2019-03,P004,Track Chain TC-45,Undercarriage,626
+2019-03,P005,Fuel Injector FI-220,Engine,662
+2019-03,P006,Alternator ALT-500,Electrical,579
+2019-03,P007,Hydraulic Hose HH-60,Hydraulic,779
+2019-03,P008,Bucket Tooth BT-10,Attachments,620
+2019-03,P009,Starter Motor SM-700,Electrical,801
+2019-03,P010,Turbocharger TB-900,Engine,683
+2019-03,P011,Hydraulic Cylinder HC-200,Hydraulic,462
+2019-03,P012,Brake Pad BP-40,Brakes,600
+2019-03,P013,Seal Kit SK-15,Seals,768
+2019-03,P014,Transmission Assembly TA-800,Transmission,737
+2019-03,P015,Engine Block EB-600,Engine,654
+2019-03,P016,Radiator RD-250,Cooling,501
+2019-03,P017,Fan Belt FB-30,Belts,735
+2019-03,P018,Wheel Rim WR-24,Undercarriage,731
+2019-03,P019,Swing Motor SWM-350,Hydraulic,608
+2019-03,P020,Pivot Pin PP-12,Pins & Bushes,605
+2019-03,P021,Boom Cylinder BC-400,Hydraulic,782
+2019-03,P022,Control Valve CV-75,Hydraulic,556
+2019-03,P023,Idler Wheel IW-55,Undercarriage,655
+2019-03,P024,Track Roller TR-60,Undercarriage,493
+2019-03,P025,Cabin Glass CG-20,Cabin,805
+2019-03,P026,Grease Cartridge GC-5,Lubricants,698
+2019-03,P027,O-Ring Set OR-50,Seals,691
+2019-03,P028,Light Assembly LA-18,Electrical,835
+2019-03,P029,Pressure Sensor PS-90,Sensors,602
+2019-03,P030,Fuel Pump FP-350,Engine,619
+2019-04,P001,Hydraulic Pump HP-300,Hydraulic,549
+2019-04,P002,Engine Oil Filter OF-90,Filters,657
+2019-04,P003,Air Filter AF-120,Filters,646
+2019-04,P004,Track Chain TC-45,Undercarriage,770
+2019-04,P005,Fuel Injector FI-220,Engine,643
+2019-04,P006,Alternator ALT-500,Electrical,434
+2019-04,P007,Hydraulic Hose HH-60,Hydraulic,525
+2019-04,P008,Bucket Tooth BT-10,Attachments,823
+2019-04,P009,Starter Motor SM-700,Electrical,587
+2019-04,P010,Turbocharger TB-900,Engine,757
+2019-04,P011,Hydraulic Cylinder HC-200,Hydraulic,759
+2019-04,P012,Brake Pad BP-40,Brakes,849
+2019-04,P013,Seal Kit SK-15,Seals,613
+2019-04,P014,Transmission Assembly TA-800,Transmission,611
+2019-04,P015,Engine Block EB-600,Engine,649
+2019-04,P016,Radiator RD-250,Cooling,587
+2019-04,P017,Fan Belt FB-30,Belts,554
+2019-04,P018,Wheel Rim WR-24,Undercarriage,761
+2019-04,P019,Swing Motor SWM-350,Hydraulic,494
+2019-04,P020,Pivot Pin PP-12,Pins & Bushes,705
+2019-04,P021,Boom Cylinder BC-400,Hydraulic,803
+2019-04,P022,Control Valve CV-75,Hydraulic,708
+2019-04,P023,Idler Wheel IW-55,Undercarriage,714
+2019-04,P024,Track Roller TR-60,Undercarriage,635
+2019-04,P025,Cabin Glass CG-20,Cabin,688
+2019-04,P026,Grease Cartridge GC-5,Lubricants,625
+2019-04,P027,O-Ring Set OR-50,Seals,559
+2019-04,P028,Light Assembly LA-18,Electrical,724
+2019-04,P029,Pressure Sensor PS-90,Sensors,572
+2019-04,P030,Fuel Pump FP-350,Engine,671
+2019-05,P001,Hydraulic Pump HP-300,Hydraulic,748
+2019-05,P002,Engine Oil Filter OF-90,Filters,672
+2019-05,P003,Air Filter AF-120,Filters,852
+2019-05,P004,Track Chain TC-45,Undercarriage,577
+2019-05,P005,Fuel Injector FI-220,Engine,650
+2019-05,P006,Alternator ALT-500,Electrical,507
+2019-05,P007,Hydraulic Hose HH-60,Hydraulic,601
+2019-05,P008,Bucket Tooth BT-10,Attachments,609
+2019-05,P009,Starter Motor SM-700,Electrical,690
+2019-05,P010,Turbocharger TB-900,Engine,729
+2019-05,P011,Hydraulic Cylinder HC-200,Hydraulic,652
+2019-05,P012,Brake Pad BP-40,Brakes,795
+2019-05,P013,Seal Kit SK-15,Seals,729
+2019-05,P014,Transmission Assembly TA-800,Transmission,553
+2019-05,P015,Engine Block EB-600,Engine,693
+2019-05,P016,Radiator RD-250,Cooling,744
+2019-05,P017,Fan Belt FB-30,Belts,852
+2019-05,P018,Wheel Rim WR-24,Undercarriage,673
+2019-05,P019,Swing Motor SWM-350,Hydraulic,621
+2019-05,P020,Pivot Pin PP-12,Pins & Bushes,651
+2019-05,P021,Boom Cylinder BC-400,Hydraulic,672
+2019-05,P022,Control Valve CV-75,Hydraulic,709
+2019-05,P023,Idler Wheel IW-55,Undercarriage,532
+2019-05,P024,Track Roller TR-60,Undercarriage,533
+2019-05,P025,Cabin Glass CG-20,Cabin,672
+2019-05,P026,Grease Cartridge GC-5,Lubricants,737
+2019-05,P027,O-Ring Set OR-50,Seals,689
+2019-05,P028,Light Assembly LA-18,Electrical,426
+2019-05,P029,Pressure Sensor PS-90,Sensors,768
+2019-05,P030,Fuel Pump FP-350,Engine,794
+2019-06,P001,Hydraulic Pump HP-300,Hydraulic,732
+2019-06,P002,Engine Oil Filter OF-90,Filters,597
+2019-06,P003,Air Filter AF-120,Filters,542
+2019-06,P004,Track Chain TC-45,Undercarriage,673
+2019-06,P005,Fuel Injector FI-220,Engine,675
+2019-06,P006,Alternator ALT-500,Electrical,632
+2019-06,P007,Hydraulic Hose HH-60,Hydraulic,777
+2019-06,P008,Bucket Tooth BT-10,Attachments,500
+2019-06,P009,Starter Motor SM-700,Electrical,745
+2019-06,P010,Turbocharger TB-900,Engine,608
+2019-06,P011,Hydraulic Cylinder HC-200,Hydraulic,686
+2019-06,P012,Brake Pad BP-40,Brakes,708
+2019-06,P013,Seal Kit SK-15,Seals,501
+2019-06,P014,Transmission Assembly TA-800,Transmission,693
+2019-06,P015,Engine Block EB-600,Engine,503
+2019-06,P016,Radiator RD-250,Cooling,667
+2019-06,P017,Fan Belt FB-30,Belts,666
+2019-06,P018,Wheel Rim WR-24,Undercarriage,589
+2019-06,P019,Swing Motor SWM-350,Hydraulic,611
+2019-06,P020,Pivot Pin PP-12,Pins & Bushes,562
+2019-06,P021,Boom Cylinder BC-400,Hydraulic,625
+2019-06,P022,Control Valve CV-75,Hydraulic,656
+2019-06,P023,Idler Wheel IW-55,Undercarriage,461
+2019-06,P024,Track Roller TR-60,Undercarriage,557
+2019-06,P025,Cabin Glass CG-20,Cabin,679
+2019-06,P026,Grease Cartridge GC-5,Lubricants,584
+2019-06,P027,O-Ring Set OR-50,Seals,537
+2019-06,P028,Light Assembly LA-18,Electrical,719
+2019-06,P029,Pressure Sensor PS-90,Sensors,675
+2019-06,P030,Fuel Pump FP-350,Engine,783
+2019-07,P001,Hydraulic Pump HP-300,Hydraulic,860
+2019-07,P002,Engine Oil Filter OF-90,Filters,662
+2019-07,P003,Air Filter AF-120,Filters,692
+2019-07,P004,Track Chain TC-45,Undercarriage,657
+2019-07,P005,Fuel Injector FI-220,Engine,776
+2019-07,P006,Alternator ALT-500,Electrical,715
+2019-07,P007,Hydraulic Hose HH-60,Hydraulic,563
+2019-07,P008,Bucket Tooth BT-10,Attachments,857
+2019-07,P009,Starter Motor SM-700,Electrical,669
+2019-07,P010,Turbocharger TB-900,Engine,758
+2019-07,P011,Hydraulic Cylinder HC-200,Hydraulic,645
+2019-07,P012,Brake Pad BP-40,Brakes,800
+2019-07,P013,Seal Kit SK-15,Seals,473
+2019-07,P014,Transmission Assembly TA-800,Transmission,531
+2019-07,P015,Engine Block EB-600,Engine,790
+2019-07,P016,Radiator RD-250,Cooling,715
+2019-07,P017,Fan Belt FB-30,Belts,653
+2019-07,P018,Wheel Rim WR-24,Undercarriage,625
+2019-07,P019,Swing Motor SWM-350,Hydraulic,835
+2019-07,P020,Pivot Pin PP-12,Pins & Bushes,736
+2019-07,P021,Boom Cylinder BC-400,Hydraulic,715
+2019-07,P022,Control Valve CV-75,Hydraulic,895
+2019-07,P023,Idler Wheel IW-55,Undercarriage,598
+2019-07,P024,Track Roller TR-60,Undercarriage,693
+2019-07,P025,Cabin Glass CG-20,Cabin,731
+2019-07,P026,Grease Cartridge GC-5,Lubricants,759
+2019-07,P027,O-Ring Set OR-50,Seals,747
+2019-07,P028,Light Assembly LA-18,Electrical,683
+2019-07,P029,Pressure Sensor PS-90,Sensors,854
+2019-07,P030,Fuel Pump FP-350,Engine,711
+2019-08,P001,Hydraulic Pump HP-300,Hydraulic,622
+2019-08,P002,Engine Oil Filter OF-90,Filters,761
+2019-08,P003,Air Filter AF-120,Filters,578
+2019-08,P004,Track Chain TC-45,Undercarriage,808
+2019-08,P005,Fuel Injector FI-220,Engine,622
+2019-08,P006,Alternator ALT-500,Electrical,477
+2019-08,P007,Hydraulic Hose HH-60,Hydraulic,687
+2019-08,P008,Bucket Tooth BT-10,Attachments,700
+2019-08,P009,Starter Motor SM-700,Electrical,808
+2019-08,P010,Turbocharger TB-900,Engine,674
+2019-08,P011,Hydraulic Cylinder HC-200,Hydraulic,742
+2019-08,P012,Brake Pad BP-40,Brakes,775
+2019-08,P013,Seal Kit SK-15,Seals,671
+2019-08,P014,Transmission Assembly TA-800,Transmission,634
+2019-08,P015,Engine Block EB-600,Engine,665
+2019-08,P016,Radiator RD-250,Cooling,732
+2019-08,P017,Fan Belt FB-30,Belts,726
+2019-08,P018,Wheel Rim WR-24,Undercarriage,582
+2019-08,P019,Swing Motor SWM-350,Hydraulic,808
+2019-08,P020,Pivot Pin PP-12,Pins & Bushes,780
+2019-08,P021,Boom Cylinder BC-400,Hydraulic,597
+2019-08,P022,Control Valve CV-75,Hydraulic,726
+2019-08,P023,Idler Wheel IW-55,Undercarriage,808
+2019-08,P024,Track Roller TR-60,Undercarriage,595
+2019-08,P025,Cabin Glass CG-20,Cabin,691
+2019-08,P026,Grease Cartridge GC-5,Lubricants,781
+2019-08,P027,O-Ring Set OR-50,Seals,786
+2019-08,P028,Light Assembly LA-18,Electrical,610
+2019-08,P029,Pressure Sensor PS-90,Sensors,655
+2019-08,P030,Fuel Pump FP-350,Engine,589
+2019-09,P001,Hydraulic Pump HP-300,Hydraulic,580
+2019-09,P002,Engine Oil Filter OF-90,Filters,523
+2019-09,P003,Air Filter AF-120,Filters,584
+2019-09,P004,Track Chain TC-45,Undercarriage,729
+2019-09,P005,Fuel Injector FI-220,Engine,615
+2019-09,P006,Alternator ALT-500,Electrical,559
+2019-09,P007,Hydraulic Hose HH-60,Hydraulic,668
+2019-09,P008,Bucket Tooth BT-10,Attachments,516
+2019-09,P009,Starter Motor SM-700,Electrical,460
+2019-09,P010,Turbocharger TB-900,Engine,605
+2019-09,P011,Hydraulic Cylinder HC-200,Hydraulic,634
+2019-09,P012,Brake Pad BP-40,Brakes,754
+2019-09,P013,Seal Kit SK-15,Seals,684
+2019-09,P014,Transmission Assembly TA-800,Transmission,467
+2019-09,P015,Engine Block EB-600,Engine,501
+2019-09,P016,Radiator RD-250,Cooling,686
+2019-09,P017,Fan Belt FB-30,Belts,450
+2019-09,P018,Wheel Rim WR-24,Undercarriage,575
+2019-09,P019,Swing Motor SWM-350,Hydraulic,652
+2019-09,P020,Pivot Pin PP-12,Pins & Bushes,752
+2019-09,P021,Boom Cylinder BC-400,Hydraulic,649
+2019-09,P022,Control Valve CV-75,Hydraulic,735
+2019-09,P023,Idler Wheel IW-55,Undercarriage,669
+2019-09,P024,Track Roller TR-60,Undercarriage,572
+2019-09,P025,Cabin Glass CG-20,Cabin,523
+2019-09,P026,Grease Cartridge GC-5,Lubricants,455
+2019-09,P027,O-Ring Set OR-50,Seals,531
+2019-09,P028,Light Assembly LA-18,Electrical,746
+2019-09,P029,Pressure Sensor PS-90,Sensors,614
+2019-09,P030,Fuel Pump FP-350,Engine,792
+2019-10,P001,Hydraulic Pump HP-300,Hydraulic,654
+2019-10,P002,Engine Oil Filter OF-90,Filters,590
+2019-10,P003,Air Filter AF-120,Filters,561
+2019-10,P004,Track Chain TC-45,Undercarriage,511
+2019-10,P005,Fuel Injector FI-220,Engine,642
+2019-10,P006,Alternator ALT-500,Electrical,697
+2019-10,P007,Hydraulic Hose HH-60,Hydraulic,627
+2019-10,P008,Bucket Tooth BT-10,Attachments,514
+2019-10,P009,Starter Motor SM-700,Electrical,590
+2019-10,P010,Turbocharger TB-900,Engine,654
+2019-10,P011,Hydraulic Cylinder HC-200,Hydraulic,651
+2019-10,P012,Brake Pad BP-40,Brakes,750
+2019-10,P013,Seal Kit SK-15,Seals,631
+2019-10,P014,Transmission Assembly TA-800,Transmission,627
+2019-10,P015,Engine Block EB-600,Engine,662
+2019-10,P016,Radiator RD-250,Cooling,524
+2019-10,P017,Fan Belt FB-30,Belts,727
+2019-10,P018,Wheel Rim WR-24,Undercarriage,525
+2019-10,P019,Swing Motor SWM-350,Hydraulic,643
+2019-10,P020,Pivot Pin PP-12,Pins & Bushes,654
+2019-10,P021,Boom Cylinder BC-400,Hydraulic,685
+2019-10,P022,Control Valve CV-75,Hydraulic,586
+2019-10,P023,Idler Wheel IW-55,Undercarriage,664
+2019-10,P024,Track Roller TR-60,Undercarriage,593
+2019-10,P025,Cabin Glass CG-20,Cabin,440
+2019-10,P026,Grease Cartridge GC-5,Lubricants,505
+2019-10,P027,O-Ring Set OR-50,Seals,622
+2019-10,P028,Light Assembly LA-18,Electrical,514
+2019-10,P029,Pressure Sensor PS-90,Sensors,544
+2019-10,P030,Fuel Pump FP-350,Engine,602
+2019-11,P001,Hydraulic Pump HP-300,Hydraulic,587
+2019-11,P002,Engine Oil Filter OF-90,Filters,773
+2019-11,P003,Air Filter AF-120,Filters,669
+2019-11,P004,Track Chain TC-45,Undercarriage,732
+2019-11,P005,Fuel Injector FI-220,Engine,520
+2019-11,P006,Alternator ALT-500,Electrical,595
+2019-11,P007,Hydraulic Hose HH-60,Hydraulic,664
+2019-11,P008,Bucket Tooth BT-10,Attachments,582
+2019-11,P009,Starter Motor SM-700,Electrical,661
+2019-11,P010,Turbocharger TB-900,Engine,751
+2019-11,P011,Hydraulic Cylinder HC-200,Hydraulic,574
+2019-11,P012,Brake Pad BP-40,Brakes,428
+2019-11,P013,Seal Kit SK-15,Seals,585
+2019-11,P014,Transmission Assembly TA-800,Transmission,642
+2019-11,P015,Engine Block EB-600,Engine,571
+2019-11,P016,Radiator RD-250,Cooling,637
+2019-11,P017,Fan Belt FB-30,Belts,563
+2019-11,P018,Wheel Rim WR-24,Undercarriage,696
+2019-11,P019,Swing Motor SWM-350,Hydraulic,539
+2019-11,P020,Pivot Pin PP-12,Pins & Bushes,616
+2019-11,P021,Boom Cylinder BC-400,Hydraulic,625
+2019-11,P022,Control Valve CV-75,Hydraulic,637
+2019-11,P023,Idler Wheel IW-55,Undercarriage,522
+2019-11,P024,Track Roller TR-60,Undercarriage,624
+2019-11,P025,Cabin Glass CG-20,Cabin,749
+2019-11,P026,Grease Cartridge GC-5,Lubricants,534
+2019-11,P027,O-Ring Set OR-50,Seals,716
+2019-11,P028,Light Assembly LA-18,Electrical,750
+2019-11,P029,Pressure Sensor PS-90,Sensors,701
+2019-11,P030,Fuel Pump FP-350,Engine,650
+2019-12,P001,Hydraulic Pump HP-300,Hydraulic,586
+2019-12,P002,Engine Oil Filter OF-90,Filters,698
+2019-12,P003,Air Filter AF-120,Filters,561
+2019-12,P004,Track Chain TC-45,Undercarriage,539
+2019-12,P005,Fuel Injector FI-220,Engine,623
+2019-12,P006,Alternator ALT-500,Electrical,595
+2019-12,P007,Hydraulic Hose HH-60,Hydraulic,531
+2019-12,P008,Bucket Tooth BT-10,Attachments,597
+2019-12,P009,Starter Motor SM-700,Electrical,643
+2019-12,P010,Turbocharger TB-900,Engine,779
+2019-12,P011,Hydraulic Cylinder HC-200,Hydraulic,697
+2019-12,P012,Brake Pad BP-40,Brakes,630
+2019-12,P013,Seal Kit SK-15,Seals,589
+2019-12,P014,Transmission Assembly TA-800,Transmission,479
+2019-12,P015,Engine Block EB-600,Engine,506
+2019-12,P016,Radiator RD-250,Cooling,644
+2019-12,P017,Fan Belt FB-30,Belts,534
+2019-12,P018,Wheel Rim WR-24,Undercarriage,511
+2019-12,P019,Swing Motor SWM-350,Hydraulic,658
+2019-12,P020,Pivot Pin PP-12,Pins & Bushes,535
+2019-12,P021,Boom Cylinder BC-400,Hydraulic,481
+2019-12,P022,Control Valve CV-75,Hydraulic,617
+2019-12,P023,Idler Wheel IW-55,Undercarriage,560
+2019-12,P024,Track Roller TR-60,Undercarriage,575
+2019-12,P025,Cabin Glass CG-20,Cabin,550
+2019-12,P026,Grease Cartridge GC-5,Lubricants,540
+2019-12,P027,O-Ring Set OR-50,Seals,503
+2019-12,P028,Light Assembly LA-18,Electrical,626
+2019-12,P029,Pressure Sensor PS-90,Sensors,591
+2019-12,P030,Fuel Pump FP-350,Engine,485
+2020-01,P001,Hydraulic Pump HP-300,Hydraulic,777
+2020-01,P002,Engine Oil Filter OF-90,Filters,678
+2020-01,P003,Air Filter AF-120,Filters,476
+2020-01,P004,Track Chain TC-45,Undercarriage,782
+2020-01,P005,Fuel Injector FI-220,Engine,598
+2020-01,P006,Alternator ALT-500,Electrical,612
+2020-01,P007,Hydraulic Hose HH-60,Hydraulic,584
+2020-01,P008,Bucket Tooth BT-10,Attachments,490
+2020-01,P009,Starter Motor SM-700,Electrical,610
+2020-01,P010,Turbocharger TB-900,Engine,581
+2020-01,P011,Hydraulic Cylinder HC-200,Hydraulic,583
+2020-01,P012,Brake Pad BP-40,Brakes,553
+2020-01,P013,Seal Kit SK-15,Seals,570
+2020-01,P014,Transmission Assembly TA-800,Transmission,725
+2020-01,P015,Engine Block EB-600,Engine,550
+2020-01,P016,Radiator RD-250,Cooling,610
+2020-01,P017,Fan Belt FB-30,Belts,530
+2020-01,P018,Wheel Rim WR-24,Undercarriage,632
+2020-01,P019,Swing Motor SWM-350,Hydraulic,574
+2020-01,P020,Pivot Pin PP-12,Pins & Bushes,761
+2020-01,P021,Boom Cylinder BC-400,Hydraulic,545
+2020-01,P022,Control Valve CV-75,Hydraulic,464
+2020-01,P023,Idler Wheel IW-55,Undercarriage,656
+2020-01,P024,Track Roller TR-60,Undercarriage,616
+2020-01,P025,Cabin Glass CG-20,Cabin,664
+2020-01,P026,Grease Cartridge GC-5,Lubricants,584
+2020-01,P027,O-Ring Set OR-50,Seals,485
+2020-01,P028,Light Assembly LA-18,Electrical,626
+2020-01,P029,Pressure Sensor PS-90,Sensors,652
+2020-01,P030,Fuel Pump FP-350,Engine,536
+2020-02,P001,Hydraulic Pump HP-300,Hydraulic,450
+2020-02,P002,Engine Oil Filter OF-90,Filters,560
+2020-02,P003,Air Filter AF-120,Filters,679
+2020-02,P004,Track Chain TC-45,Undercarriage,473
+2020-02,P005,Fuel Injector FI-220,Engine,482
+2020-02,P006,Alternator ALT-500,Electrical,344
+2020-02,P007,Hydraulic Hose HH-60,Hydraulic,622
+2020-02,P008,Bucket Tooth BT-10,Attachments,608
+2020-02,P009,Starter Motor SM-700,Electrical,643
+2020-02,P010,Turbocharger TB-900,Engine,641
+2020-02,P011,Hydraulic Cylinder HC-200,Hydraulic,523
+2020-02,P012,Brake Pad BP-40,Brakes,647
+2020-02,P013,Seal Kit SK-15,Seals,536
+2020-02,P014,Transmission Assembly TA-800,Transmission,486
+2020-02,P015,Engine Block EB-600,Engine,593
+2020-02,P016,Radiator RD-250,Cooling,662
+2020-02,P017,Fan Belt FB-30,Belts,610
+2020-02,P018,Wheel Rim WR-24,Undercarriage,572
+2020-02,P019,Swing Motor SWM-350,Hydraulic,615
+2020-02,P020,Pivot Pin PP-12,Pins & Bushes,623
+2020-02,P021,Boom Cylinder BC-400,Hydraulic,430
+2020-02,P022,Control Valve CV-75,Hydraulic,570
+2020-02,P023,Idler Wheel IW-55,Undercarriage,672
+2020-02,P024,Track Roller TR-60,Undercarriage,511
+2020-02,P025,Cabin Glass CG-20,Cabin,698
+2020-02,P026,Grease Cartridge GC-5,Lubricants,615
+2020-02,P027,O-Ring Set OR-50,Seals,702
+2020-02,P028,Light Assembly LA-18,Electrical,654
+2020-02,P029,Pressure Sensor PS-90,Sensors,527
+2020-02,P030,Fuel Pump FP-350,Engine,484
+2020-03,P001,Hydraulic Pump HP-300,Hydraulic,608
+2020-03,P002,Engine Oil Filter OF-90,Filters,615
+2020-03,P003,Air Filter AF-120,Filters,594
+2020-03,P004,Track Chain TC-45,Undercarriage,473
+2020-03,P005,Fuel Injector FI-220,Engine,515
+2020-03,P006,Alternator ALT-500,Electrical,516
+2020-03,P007,Hydraulic Hose HH-60,Hydraulic,635
+2020-03,P008,Bucket Tooth BT-10,Attachments,664
+2020-03,P009,Starter Motor SM-700,Electrical,591
+2020-03,P010,Turbocharger TB-900,Engine,813
+2020-03,P011,Hydraulic Cylinder HC-200,Hydraulic,562
+2020-03,P012,Brake Pad BP-40,Brakes,600
+2020-03,P013,Seal Kit SK-15,Seals,775
+2020-03,P014,Transmission Assembly TA-800,Transmission,517
+2020-03,P015,Engine Block EB-600,Engine,684
+2020-03,P016,Radiator RD-250,Cooling,669
+2020-03,P017,Fan Belt FB-30,Belts,526
+2020-03,P018,Wheel Rim WR-24,Undercarriage,768
+2020-03,P019,Swing Motor SWM-350,Hydraulic,799
+2020-03,P020,Pivot Pin PP-12,Pins & Bushes,575
+2020-03,P021,Boom Cylinder BC-400,Hydraulic,559
+2020-03,P022,Control Valve CV-75,Hydraulic,677
+2020-03,P023,Idler Wheel IW-55,Undercarriage,629
+2020-03,P024,Track Roller TR-60,Undercarriage,638
+2020-03,P025,Cabin Glass CG-20,Cabin,667
+2020-03,P026,Grease Cartridge GC-5,Lubricants,420
+2020-03,P027,O-Ring Set OR-50,Seals,838
+2020-03,P028,Light Assembly LA-18,Electrical,814
+2020-03,P029,Pressure Sensor PS-90,Sensors,721
+2020-03,P030,Fuel Pump FP-350,Engine,538
+2020-04,P001,Hydraulic Pump HP-300,Hydraulic,663
+2020-04,P002,Engine Oil Filter OF-90,Filters,594
+2020-04,P003,Air Filter AF-120,Filters,505
+2020-04,P004,Track Chain TC-45,Undercarriage,490
+2020-04,P005,Fuel Injector FI-220,Engine,544
+2020-04,P006,Alternator ALT-500,Electrical,516
+2020-04,P007,Hydraulic Hose HH-60,Hydraulic,605
+2020-04,P008,Bucket Tooth BT-10,Attachments,536
+2020-04,P009,Starter Motor SM-700,Electrical,526
+2020-04,P010,Turbocharger TB-900,Engine,711
+2020-04,P011,Hydraulic Cylinder HC-200,Hydraulic,620
+2020-04,P012,Brake Pad BP-40,Brakes,519
+2020-04,P013,Seal Kit SK-15,Seals,464
+2020-04,P014,Transmission Assembly TA-800,Transmission,625
+2020-04,P015,Engine Block EB-600,Engine,607
+2020-04,P016,Radiator RD-250,Cooling,608
+2020-04,P017,Fan Belt FB-30,Belts,669
+2020-04,P018,Wheel Rim WR-24,Undercarriage,539
+2020-04,P019,Swing Motor SWM-350,Hydraulic,561
+2020-04,P020,Pivot Pin PP-12,Pins & Bushes,627
+2020-04,P021,Boom Cylinder BC-400,Hydraulic,522
+2020-04,P022,Control Valve CV-75,Hydraulic,515
+2020-04,P023,Idler Wheel IW-55,Undercarriage,523
+2020-04,P024,Track Roller TR-60,Undercarriage,732
+2020-04,P025,Cabin Glass CG-20,Cabin,744
+2020-04,P026,Grease Cartridge GC-5,Lubricants,477
+2020-04,P027,O-Ring Set OR-50,Seals,705
+2020-04,P028,Light Assembly LA-18,Electrical,543
+2020-04,P029,Pressure Sensor PS-90,Sensors,638
+2020-04,P030,Fuel Pump FP-350,Engine,431
+2020-05,P001,Hydraulic Pump HP-300,Hydraulic,745
+2020-05,P002,Engine Oil Filter OF-90,Filters,631
+2020-05,P003,Air Filter AF-120,Filters,833
+2020-05,P004,Track Chain TC-45,Undercarriage,619
+2020-05,P005,Fuel Injector FI-220,Engine,892
+2020-05,P006,Alternator ALT-500,Electrical,794
+2020-05,P007,Hydraulic Hose HH-60,Hydraulic,582
+2020-05,P008,Bucket Tooth BT-10,Attachments,747
+2020-05,P009,Starter Motor SM-700,Electrical,878
+2020-05,P010,Turbocharger TB-900,Engine,691
+2020-05,P011,Hydraulic Cylinder HC-200,Hydraulic,898
+2020-05,P012,Brake Pad BP-40,Brakes,692
+2020-05,P013,Seal Kit SK-15,Seals,644
+2020-05,P014,Transmission Assembly TA-800,Transmission,752
+2020-05,P015,Engine Block EB-600,Engine,562
+2020-05,P016,Radiator RD-250,Cooling,607
+2020-05,P017,Fan Belt FB-30,Belts,588
+2020-05,P018,Wheel Rim WR-24,Undercarriage,732
+2020-05,P019,Swing Motor SWM-350,Hydraulic,732
+2020-05,P020,Pivot Pin PP-12,Pins & Bushes,759
+2020-05,P021,Boom Cylinder BC-400,Hydraulic,756
+2020-05,P022,Control Valve CV-75,Hydraulic,589
+2020-05,P023,Idler Wheel IW-55,Undercarriage,809
+2020-05,P024,Track Roller TR-60,Undercarriage,700
+2020-05,P025,Cabin Glass CG-20,Cabin,533
+2020-05,P026,Grease Cartridge GC-5,Lubricants,741
+2020-05,P027,O-Ring Set OR-50,Seals,695
+2020-05,P028,Light Assembly LA-18,Electrical,689
+2020-05,P029,Pressure Sensor PS-90,Sensors,663
+2020-05,P030,Fuel Pump FP-350,Engine,797
+2020-06,P001,Hydraulic Pump HP-300,Hydraulic,525
+2020-06,P002,Engine Oil Filter OF-90,Filters,585
+2020-06,P003,Air Filter AF-120,Filters,522
+2020-06,P004,Track Chain TC-45,Undercarriage,490
+2020-06,P005,Fuel Injector FI-220,Engine,660
+2020-06,P006,Alternator ALT-500,Electrical,659
+2020-06,P007,Hydraulic Hose HH-60,Hydraulic,673
+2020-06,P008,Bucket Tooth BT-10,Attachments,731
+2020-06,P009,Starter Motor SM-700,Electrical,609
+2020-06,P010,Turbocharger TB-900,Engine,593
+2020-06,P011,Hydraulic Cylinder HC-200,Hydraulic,675
+2020-06,P012,Brake Pad BP-40,Brakes,489
+2020-06,P013,Seal Kit SK-15,Seals,431
+2020-06,P014,Transmission Assembly TA-800,Transmission,593
+2020-06,P015,Engine Block EB-600,Engine,681
+2020-06,P016,Radiator RD-250,Cooling,711
+2020-06,P017,Fan Belt FB-30,Belts,742
+2020-06,P018,Wheel Rim WR-24,Undercarriage,506
+2020-06,P019,Swing Motor SWM-350,Hydraulic,492
+2020-06,P020,Pivot Pin PP-12,Pins & Bushes,505
+2020-06,P021,Boom Cylinder BC-400,Hydraulic,677
+2020-06,P022,Control Valve CV-75,Hydraulic,592
+2020-06,P023,Idler Wheel IW-55,Undercarriage,381
+2020-06,P024,Track Roller TR-60,Undercarriage,656
+2020-06,P025,Cabin Glass CG-20,Cabin,540
+2020-06,P026,Grease Cartridge GC-5,Lubricants,607
+2020-06,P027,O-Ring Set OR-50,Seals,690
+2020-06,P028,Light Assembly LA-18,Electrical,649
+2020-06,P029,Pressure Sensor PS-90,Sensors,690
+2020-06,P030,Fuel Pump FP-350,Engine,736
+2020-07,P001,Hydraulic Pump HP-300,Hydraulic,811
+2020-07,P002,Engine Oil Filter OF-90,Filters,730
+2020-07,P003,Air Filter AF-120,Filters,841
+2020-07,P004,Track Chain TC-45,Undercarriage,706
+2020-07,P005,Fuel Injector FI-220,Engine,825
+2020-07,P006,Alternator ALT-500,Electrical,921
+2020-07,P007,Hydraulic Hose HH-60,Hydraulic,823
+2020-07,P008,Bucket Tooth BT-10,Attachments,687
+2020-07,P009,Starter Motor SM-700,Electrical,853
+2020-07,P010,Turbocharger TB-900,Engine,754
+2020-07,P011,Hydraulic Cylinder HC-200,Hydraulic,688
+2020-07,P012,Brake Pad BP-40,Brakes,768
+2020-07,P013,Seal Kit SK-15,Seals,792
+2020-07,P014,Transmission Assembly TA-800,Transmission,865
+2020-07,P015,Engine Block EB-600,Engine,709
+2020-07,P016,Radiator RD-250,Cooling,899
+2020-07,P017,Fan Belt FB-30,Belts,905
+2020-07,P018,Wheel Rim WR-24,Undercarriage,729
+2020-07,P019,Swing Motor SWM-350,Hydraulic,716
+2020-07,P020,Pivot Pin PP-12,Pins & Bushes,698
+2020-07,P021,Boom Cylinder BC-400,Hydraulic,766
+2020-07,P022,Control Valve CV-75,Hydraulic,790
+2020-07,P023,Idler Wheel IW-55,Undercarriage,701
+2020-07,P024,Track Roller TR-60,Undercarriage,760
+2020-07,P025,Cabin Glass CG-20,Cabin,876
+2020-07,P026,Grease Cartridge GC-5,Lubricants,719
+2020-07,P027,O-Ring Set OR-50,Seals,851
+2020-07,P028,Light Assembly LA-18,Electrical,745
+2020-07,P029,Pressure Sensor PS-90,Sensors,783
+2020-07,P030,Fuel Pump FP-350,Engine,826
+2020-08,P001,Hydraulic Pump HP-300,Hydraulic,825
+2020-08,P002,Engine Oil Filter OF-90,Filters,771
+2020-08,P003,Air Filter AF-120,Filters,973
+2020-08,P004,Track Chain TC-45,Undercarriage,739
+2020-08,P005,Fuel Injector FI-220,Engine,787
+2020-08,P006,Alternator ALT-500,Electrical,801
+2020-08,P007,Hydraulic Hose HH-60,Hydraulic,761
+2020-08,P008,Bucket Tooth BT-10,Attachments,616
+2020-08,P009,Starter Motor SM-700,Electrical,697
+2020-08,P010,Turbocharger TB-900,Engine,747
+2020-08,P011,Hydraulic Cylinder HC-200,Hydraulic,542
+2020-08,P012,Brake Pad BP-40,Brakes,800
+2020-08,P013,Seal Kit SK-15,Seals,959
+2020-08,P014,Transmission Assembly TA-800,Transmission,724
+2020-08,P015,Engine Block EB-600,Engine,763
+2020-08,P016,Radiator RD-250,Cooling,776
+2020-08,P017,Fan Belt FB-30,Belts,808
+2020-08,P018,Wheel Rim WR-24,Undercarriage,690
+2020-08,P019,Swing Motor SWM-350,Hydraulic,772
+2020-08,P020,Pivot Pin PP-12,Pins & Bushes,696
+2020-08,P021,Boom Cylinder BC-400,Hydraulic,615
+2020-08,P022,Control Valve CV-75,Hydraulic,634
+2020-08,P023,Idler Wheel IW-55,Undercarriage,844
+2020-08,P024,Track Roller TR-60,Undercarriage,718
+2020-08,P025,Cabin Glass CG-20,Cabin,823
+2020-08,P026,Grease Cartridge GC-5,Lubricants,769
+2020-08,P027,O-Ring Set OR-50,Seals,741
+2020-08,P028,Light Assembly LA-18,Electrical,748
+2020-08,P029,Pressure Sensor PS-90,Sensors,806
+2020-08,P030,Fuel Pump FP-350,Engine,740
+2020-09,P001,Hydraulic Pump HP-300,Hydraulic,545
+2020-09,P002,Engine Oil Filter OF-90,Filters,587
+2020-09,P003,Air Filter AF-120,Filters,639
+2020-09,P004,Track Chain TC-45,Undercarriage,593
+2020-09,P005,Fuel Injector FI-220,Engine,628
+2020-09,P006,Alternator ALT-500,Electrical,750
+2020-09,P007,Hydraulic Hose HH-60,Hydraulic,571
+2020-09,P008,Bucket Tooth BT-10,Attachments,557
+2020-09,P009,Starter Motor SM-700,Electrical,654
+2020-09,P010,Turbocharger TB-900,Engine,636
+2020-09,P011,Hydraulic Cylinder HC-200,Hydraulic,770
+2020-09,P012,Brake Pad BP-40,Brakes,531
+2020-09,P013,Seal Kit SK-15,Seals,661
+2020-09,P014,Transmission Assembly TA-800,Transmission,600
+2020-09,P015,Engine Block EB-600,Engine,627
+2020-09,P016,Radiator RD-250,Cooling,668
+2020-09,P017,Fan Belt FB-30,Belts,615
+2020-09,P018,Wheel Rim WR-24,Undercarriage,554
+2020-09,P019,Swing Motor SWM-350,Hydraulic,605
+2020-09,P020,Pivot Pin PP-12,Pins & Bushes,544
+2020-09,P021,Boom Cylinder BC-400,Hydraulic,696
+2020-09,P022,Control Valve CV-75,Hydraulic,515
+2020-09,P023,Idler Wheel IW-55,Undercarriage,644
+2020-09,P024,Track Roller TR-60,Undercarriage,530
+2020-09,P025,Cabin Glass CG-20,Cabin,588
+2020-09,P026,Grease Cartridge GC-5,Lubricants,518
+2020-09,P027,O-Ring Set OR-50,Seals,535
+2020-09,P028,Light Assembly LA-18,Electrical,631
+2020-09,P029,Pressure Sensor PS-90,Sensors,631
+2020-09,P030,Fuel Pump FP-350,Engine,819
+2020-10,P001,Hydraulic Pump HP-300,Hydraulic,467
+2020-10,P002,Engine Oil Filter OF-90,Filters,506
+2020-10,P003,Air Filter AF-120,Filters,611
+2020-10,P004,Track Chain TC-45,Undercarriage,569
+2020-10,P005,Fuel Injector FI-220,Engine,655
+2020-10,P006,Alternator ALT-500,Electrical,594
+2020-10,P007,Hydraulic Hose HH-60,Hydraulic,745
+2020-10,P008,Bucket Tooth BT-10,Attachments,700
+2020-10,P009,Starter Motor SM-700,Electrical,552
+2020-10,P010,Turbocharger TB-900,Engine,698
+2020-10,P011,Hydraulic Cylinder HC-200,Hydraulic,696
+2020-10,P012,Brake Pad BP-40,Brakes,504
+2020-10,P013,Seal Kit SK-15,Seals,422
+2020-10,P014,Transmission Assembly TA-800,Transmission,523
+2020-10,P015,Engine Block EB-600,Engine,690
+2020-10,P016,Radiator RD-250,Cooling,578
+2020-10,P017,Fan Belt FB-30,Belts,658
+2020-10,P018,Wheel Rim WR-24,Undercarriage,520
+2020-10,P019,Swing Motor SWM-350,Hydraulic,534
+2020-10,P020,Pivot Pin PP-12,Pins & Bushes,592
+2020-10,P021,Boom Cylinder BC-400,Hydraulic,574
+2020-10,P022,Control Valve CV-75,Hydraulic,594
+2020-10,P023,Idler Wheel IW-55,Undercarriage,578
+2020-10,P024,Track Roller TR-60,Undercarriage,696
+2020-10,P025,Cabin Glass CG-20,Cabin,605
+2020-10,P026,Grease Cartridge GC-5,Lubricants,593
+2020-10,P027,O-Ring Set OR-50,Seals,604
+2020-10,P028,Light Assembly LA-18,Electrical,624
+2020-10,P029,Pressure Sensor PS-90,Sensors,647
+2020-10,P030,Fuel Pump FP-350,Engine,706
+2020-11,P001,Hydraulic Pump HP-300,Hydraulic,616
+2020-11,P002,Engine Oil Filter OF-90,Filters,762
+2020-11,P003,Air Filter AF-120,Filters,702
+2020-11,P004,Track Chain TC-45,Undercarriage,444
+2020-11,P005,Fuel Injector FI-220,Engine,599
+2020-11,P006,Alternator ALT-500,Electrical,608
+2020-11,P007,Hydraulic Hose HH-60,Hydraulic,720
+2020-11,P008,Bucket Tooth BT-10,Attachments,662
+2020-11,P009,Starter Motor SM-700,Electrical,668
+2020-11,P010,Turbocharger TB-900,Engine,791
+2020-11,P011,Hydraulic Cylinder HC-200,Hydraulic,627
+2020-11,P012,Brake Pad BP-40,Brakes,754
+2020-11,P013,Seal Kit SK-15,Seals,559
+2020-11,P014,Transmission Assembly TA-800,Transmission,593
+2020-11,P015,Engine Block EB-600,Engine,577
+2020-11,P016,Radiator RD-250,Cooling,569
+2020-11,P017,Fan Belt FB-30,Belts,787
+2020-11,P018,Wheel Rim WR-24,Undercarriage,683
+2020-11,P019,Swing Motor SWM-350,Hydraulic,848
+2020-11,P020,Pivot Pin PP-12,Pins & Bushes,849
+2020-11,P021,Boom Cylinder BC-400,Hydraulic,561
+2020-11,P022,Control Valve CV-75,Hydraulic,523
+2020-11,P023,Idler Wheel IW-55,Undercarriage,641
+2020-11,P024,Track Roller TR-60,Undercarriage,439
+2020-11,P025,Cabin Glass CG-20,Cabin,769
+2020-11,P026,Grease Cartridge GC-5,Lubricants,616
+2020-11,P027,O-Ring Set OR-50,Seals,462
+2020-11,P028,Light Assembly LA-18,Electrical,914
+2020-11,P029,Pressure Sensor PS-90,Sensors,599
+2020-11,P030,Fuel Pump FP-350,Engine,661
+2020-12,P001,Hydraulic Pump HP-300,Hydraulic,558
+2020-12,P002,Engine Oil Filter OF-90,Filters,483
+2020-12,P003,Air Filter AF-120,Filters,512
+2020-12,P004,Track Chain TC-45,Undercarriage,729
+2020-12,P005,Fuel Injector FI-220,Engine,634
+2020-12,P006,Alternator ALT-500,Electrical,774
+2020-12,P007,Hydraulic Hose HH-60,Hydraulic,612
+2020-12,P008,Bucket Tooth BT-10,Attachments,786
+2020-12,P009,Starter Motor SM-700,Electrical,867
+2020-12,P010,Turbocharger TB-900,Engine,618
+2020-12,P011,Hydraulic Cylinder HC-200,Hydraulic,720
+2020-12,P012,Brake Pad BP-40,Brakes,763
+2020-12,P013,Seal Kit SK-15,Seals,533
+2020-12,P014,Transmission Assembly TA-800,Transmission,804
+2020-12,P015,Engine Block EB-600,Engine,591
+2020-12,P016,Radiator RD-250,Cooling,681
+2020-12,P017,Fan Belt FB-30,Belts,797
+2020-12,P018,Wheel Rim WR-24,Undercarriage,717
+2020-12,P019,Swing Motor SWM-350,Hydraulic,872
+2020-12,P020,Pivot Pin PP-12,Pins & Bushes,705
+2020-12,P021,Boom Cylinder BC-400,Hydraulic,885
+2020-12,P022,Control Valve CV-75,Hydraulic,683
+2020-12,P023,Idler Wheel IW-55,Undercarriage,528
+2020-12,P024,Track Roller TR-60,Undercarriage,601
+2020-12,P025,Cabin Glass CG-20,Cabin,709
+2020-12,P026,Grease Cartridge GC-5,Lubricants,644
+2020-12,P027,O-Ring Set OR-50,Seals,507
+2020-12,P028,Light Assembly LA-18,Electrical,716
+2020-12,P029,Pressure Sensor PS-90,Sensors,541
+2020-12,P030,Fuel Pump FP-350,Engine,655
+2021-01,P001,Hydraulic Pump HP-300,Hydraulic,541
+2021-01,P002,Engine Oil Filter OF-90,Filters,811
+2021-01,P003,Air Filter AF-120,Filters,527
+2021-01,P004,Track Chain TC-45,Undercarriage,653
+2021-01,P005,Fuel Injector FI-220,Engine,804
+2021-01,P006,Alternator ALT-500,Electrical,694
+2021-01,P007,Hydraulic Hose HH-60,Hydraulic,672
+2021-01,P008,Bucket Tooth BT-10,Attachments,630
+2021-01,P009,Starter Motor SM-700,Electrical,556
+2021-01,P010,Turbocharger TB-900,Engine,552
+2021-01,P011,Hydraulic Cylinder HC-200,Hydraulic,643
+2021-01,P012,Brake Pad BP-40,Brakes,753
+2021-01,P013,Seal Kit SK-15,Seals,644
+2021-01,P014,Transmission Assembly TA-800,Transmission,856
+2021-01,P015,Engine Block EB-600,Engine,670
+2021-01,P016,Radiator RD-250,Cooling,586
+2021-01,P017,Fan Belt FB-30,Belts,556
+2021-01,P018,Wheel Rim WR-24,Undercarriage,643
+2021-01,P019,Swing Motor SWM-350,Hydraulic,693
+2021-01,P020,Pivot Pin PP-12,Pins & Bushes,629
+2021-01,P021,Boom Cylinder BC-400,Hydraulic,628
+2021-01,P022,Control Valve CV-75,Hydraulic,617
+2021-01,P023,Idler Wheel IW-55,Undercarriage,742
+2021-01,P024,Track Roller TR-60,Undercarriage,509
+2021-01,P025,Cabin Glass CG-20,Cabin,585
+2021-01,P026,Grease Cartridge GC-5,Lubricants,591
+2021-01,P027,O-Ring Set OR-50,Seals,653
+2021-01,P028,Light Assembly LA-18,Electrical,801
+2021-01,P029,Pressure Sensor PS-90,Sensors,697
+2021-01,P030,Fuel Pump FP-350,Engine,665
+2021-02,P001,Hydraulic Pump HP-300,Hydraulic,538
+2021-02,P002,Engine Oil Filter OF-90,Filters,747
+2021-02,P003,Air Filter AF-120,Filters,627
+2021-02,P004,Track Chain TC-45,Undercarriage,507
+2021-02,P005,Fuel Injector FI-220,Engine,620
+2021-02,P006,Alternator ALT-500,Electrical,849
+2021-02,P007,Hydraulic Hose HH-60,Hydraulic,547
+2021-02,P008,Bucket Tooth BT-10,Attachments,645
+2021-02,P009,Starter Motor SM-700,Electrical,453
+2021-02,P010,Turbocharger TB-900,Engine,604
+2021-02,P011,Hydraulic Cylinder HC-200,Hydraulic,469
+2021-02,P012,Brake Pad BP-40,Brakes,673
+2021-02,P013,Seal Kit SK-15,Seals,658
+2021-02,P014,Transmission Assembly TA-800,Transmission,659
+2021-02,P015,Engine Block EB-600,Engine,687
+2021-02,P016,Radiator RD-250,Cooling,565
+2021-02,P017,Fan Belt FB-30,Belts,572
+2021-02,P018,Wheel Rim WR-24,Undercarriage,506
+2021-02,P019,Swing Motor SWM-350,Hydraulic,649
+2021-02,P020,Pivot Pin PP-12,Pins & Bushes,623
+2021-02,P021,Boom Cylinder BC-400,Hydraulic,750
+2021-02,P022,Control Valve CV-75,Hydraulic,676
+2021-02,P023,Idler Wheel IW-55,Undercarriage,533
+2021-02,P024,Track Roller TR-60,Undercarriage,846
+2021-02,P025,Cabin Glass CG-20,Cabin,711
+2021-02,P026,Grease Cartridge GC-5,Lubricants,759
+2021-02,P027,O-Ring Set OR-50,Seals,713
+2021-02,P028,Light Assembly LA-18,Electrical,500
+2021-02,P029,Pressure Sensor PS-90,Sensors,755
+2021-02,P030,Fuel Pump FP-350,Engine,520
+2021-03,P001,Hydraulic Pump HP-300,Hydraulic,534
+2021-03,P002,Engine Oil Filter OF-90,Filters,706
+2021-03,P003,Air Filter AF-120,Filters,573
+2021-03,P004,Track Chain TC-45,Undercarriage,572
+2021-03,P005,Fuel Injector FI-220,Engine,608
+2021-03,P006,Alternator ALT-500,Electrical,700
+2021-03,P007,Hydraulic Hose HH-60,Hydraulic,549
+2021-03,P008,Bucket Tooth BT-10,Attachments,484
+2021-03,P009,Starter Motor SM-700,Electrical,586
+2021-03,P010,Turbocharger TB-900,Engine,512
+2021-03,P011,Hydraulic Cylinder HC-200,Hydraulic,707
+2021-03,P012,Brake Pad BP-40,Brakes,701
+2021-03,P013,Seal Kit SK-15,Seals,518
+2021-03,P014,Transmission Assembly TA-800,Transmission,637
+2021-03,P015,Engine Block EB-600,Engine,614
+2021-03,P016,Radiator RD-250,Cooling,728
+2021-03,P017,Fan Belt FB-30,Belts,519
+2021-03,P018,Wheel Rim WR-24,Undercarriage,557
+2021-03,P019,Swing Motor SWM-350,Hydraulic,542
+2021-03,P020,Pivot Pin PP-12,Pins & Bushes,583
+2021-03,P021,Boom Cylinder BC-400,Hydraulic,528
+2021-03,P022,Control Valve CV-75,Hydraulic,708
+2021-03,P023,Idler Wheel IW-55,Undercarriage,606
+2021-03,P024,Track Roller TR-60,Undercarriage,535
+2021-03,P025,Cabin Glass CG-20,Cabin,726
+2021-03,P026,Grease Cartridge GC-5,Lubricants,829
+2021-03,P027,O-Ring Set OR-50,Seals,582
+2021-03,P028,Light Assembly LA-18,Electrical,547
+2021-03,P029,Pressure Sensor PS-90,Sensors,649
+2021-03,P030,Fuel Pump FP-350,Engine,687
+2021-04,P001,Hydraulic Pump HP-300,Hydraulic,712
+2021-04,P002,Engine Oil Filter OF-90,Filters,637
+2021-04,P003,Air Filter AF-120,Filters,566
+2021-04,P004,Track Chain TC-45,Undercarriage,691
+2021-04,P005,Fuel Injector FI-220,Engine,641
+2021-04,P006,Alternator ALT-500,Electrical,587
+2021-04,P007,Hydraulic Hose HH-60,Hydraulic,678
+2021-04,P008,Bucket Tooth BT-10,Attachments,593
+2021-04,P009,Starter Motor SM-700,Electrical,559
+2021-04,P010,Turbocharger TB-900,Engine,601
+2021-04,P011,Hydraulic Cylinder HC-200,Hydraulic,680
+2021-04,P012,Brake Pad BP-40,Brakes,573
+2021-04,P013,Seal Kit SK-15,Seals,559
+2021-04,P014,Transmission Assembly TA-800,Transmission,631
+2021-04,P015,Engine Block EB-600,Engine,650
+2021-04,P016,Radiator RD-250,Cooling,593
+2021-04,P017,Fan Belt FB-30,Belts,670
+2021-04,P018,Wheel Rim WR-24,Undercarriage,566
+2021-04,P019,Swing Motor SWM-350,Hydraulic,556
+2021-04,P020,Pivot Pin PP-12,Pins & Bushes,529
+2021-04,P021,Boom Cylinder BC-400,Hydraulic,714
+2021-04,P022,Control Valve CV-75,Hydraulic,656
+2021-04,P023,Idler Wheel IW-55,Undercarriage,515
+2021-04,P024,Track Roller TR-60,Undercarriage,590
+2021-04,P025,Cabin Glass CG-20,Cabin,631
+2021-04,P026,Grease Cartridge GC-5,Lubricants,471
+2021-04,P027,O-Ring Set OR-50,Seals,620
+2021-04,P028,Light Assembly LA-18,Electrical,508
+2021-04,P029,Pressure Sensor PS-90,Sensors,693
+2021-04,P030,Fuel Pump FP-350,Engine,575
+2021-05,P001,Hydraulic Pump HP-300,Hydraulic,632
+2021-05,P002,Engine Oil Filter OF-90,Filters,559
+2021-05,P003,Air Filter AF-120,Filters,530
+2021-05,P004,Track Chain TC-45,Undercarriage,614
+2021-05,P005,Fuel Injector FI-220,Engine,756
+2021-05,P006,Alternator ALT-500,Electrical,608
+2021-05,P007,Hydraulic Hose HH-60,Hydraulic,530
+2021-05,P008,Bucket Tooth BT-10,Attachments,678
+2021-05,P009,Starter Motor SM-700,Electrical,541
+2021-05,P010,Turbocharger TB-900,Engine,606
+2021-05,P011,Hydraulic Cylinder HC-200,Hydraulic,568
+2021-05,P012,Brake Pad BP-40,Brakes,720
+2021-05,P013,Seal Kit SK-15,Seals,714
+2021-05,P014,Transmission Assembly TA-800,Transmission,554
+2021-05,P015,Engine Block EB-600,Engine,521
+2021-05,P016,Radiator RD-250,Cooling,679
+2021-05,P017,Fan Belt FB-30,Belts,545
+2021-05,P018,Wheel Rim WR-24,Undercarriage,602
+2021-05,P019,Swing Motor SWM-350,Hydraulic,541
+2021-05,P020,Pivot Pin PP-12,Pins & Bushes,710
+2021-05,P021,Boom Cylinder BC-400,Hydraulic,924
+2021-05,P022,Control Valve CV-75,Hydraulic,654
+2021-05,P023,Idler Wheel IW-55,Undercarriage,549
+2021-05,P024,Track Roller TR-60,Undercarriage,509
+2021-05,P025,Cabin Glass CG-20,Cabin,559
+2021-05,P026,Grease Cartridge GC-5,Lubricants,515
+2021-05,P027,O-Ring Set OR-50,Seals,536
+2021-05,P028,Light Assembly LA-18,Electrical,579
+2021-05,P029,Pressure Sensor PS-90,Sensors,574
+2021-05,P030,Fuel Pump FP-350,Engine,379
+2021-06,P001,Hydraulic Pump HP-300,Hydraulic,497
+2021-06,P002,Engine Oil Filter OF-90,Filters,498
+2021-06,P003,Air Filter AF-120,Filters,609
+2021-06,P004,Track Chain TC-45,Undercarriage,700
+2021-06,P005,Fuel Injector FI-220,Engine,617
+2021-06,P006,Alternator ALT-500,Electrical,661
+2021-06,P007,Hydraulic Hose HH-60,Hydraulic,666
+2021-06,P008,Bucket Tooth BT-10,Attachments,522
+2021-06,P009,Starter Motor SM-700,Electrical,514
+2021-06,P010,Turbocharger TB-900,Engine,531
+2021-06,P011,Hydraulic Cylinder HC-200,Hydraulic,567
+2021-06,P012,Brake Pad BP-40,Brakes,602
+2021-06,P013,Seal Kit SK-15,Seals,779
+2021-06,P014,Transmission Assembly TA-800,Transmission,507
+2021-06,P015,Engine Block EB-600,Engine,683
+2021-06,P016,Radiator RD-250,Cooling,597
+2021-06,P017,Fan Belt FB-30,Belts,671
+2021-06,P018,Wheel Rim WR-24,Undercarriage,597
+2021-06,P019,Swing Motor SWM-350,Hydraulic,674
+2021-06,P020,Pivot Pin PP-12,Pins & Bushes,406
+2021-06,P021,Boom Cylinder BC-400,Hydraulic,433
+2021-06,P022,Control Valve CV-75,Hydraulic,541
+2021-06,P023,Idler Wheel IW-55,Undercarriage,590
+2021-06,P024,Track Roller TR-60,Undercarriage,616
+2021-06,P025,Cabin Glass CG-20,Cabin,531
+2021-06,P026,Grease Cartridge GC-5,Lubricants,564
+2021-06,P027,O-Ring Set OR-50,Seals,715
+2021-06,P028,Light Assembly LA-18,Electrical,659
+2021-06,P029,Pressure Sensor PS-90,Sensors,644
+2021-06,P030,Fuel Pump FP-350,Engine,688
+2021-07,P001,Hydraulic Pump HP-300,Hydraulic,574
+2021-07,P002,Engine Oil Filter OF-90,Filters,578
+2021-07,P003,Air Filter AF-120,Filters,424
+2021-07,P004,Track Chain TC-45,Undercarriage,730
+2021-07,P005,Fuel Injector FI-220,Engine,492
+2021-07,P006,Alternator ALT-500,Electrical,451
+2021-07,P007,Hydraulic Hose HH-60,Hydraulic,713
+2021-07,P008,Bucket Tooth BT-10,Attachments,676
+2021-07,P009,Starter Motor SM-700,Electrical,711
+2021-07,P010,Turbocharger TB-900,Engine,731
+2021-07,P011,Hydraulic Cylinder HC-200,Hydraulic,623
+2021-07,P012,Brake Pad BP-40,Brakes,627
+2021-07,P013,Seal Kit SK-15,Seals,518
+2021-07,P014,Transmission Assembly TA-800,Transmission,590
+2021-07,P015,Engine Block EB-600,Engine,491
+2021-07,P016,Radiator RD-250,Cooling,772
+2021-07,P017,Fan Belt FB-30,Belts,573
+2021-07,P018,Wheel Rim WR-24,Undercarriage,453
+2021-07,P019,Swing Motor SWM-350,Hydraulic,569
+2021-07,P020,Pivot Pin PP-12,Pins & Bushes,646
+2021-07,P021,Boom Cylinder BC-400,Hydraulic,691
+2021-07,P022,Control Valve CV-75,Hydraulic,555
+2021-07,P023,Idler Wheel IW-55,Undercarriage,668
+2021-07,P024,Track Roller TR-60,Undercarriage,724
+2021-07,P025,Cabin Glass CG-20,Cabin,652
+2021-07,P026,Grease Cartridge GC-5,Lubricants,514
+2021-07,P027,O-Ring Set OR-50,Seals,891
+2021-07,P028,Light Assembly LA-18,Electrical,775
+2021-07,P029,Pressure Sensor PS-90,Sensors,564
+2021-07,P030,Fuel Pump FP-350,Engine,701
+2021-08,P001,Hydraulic Pump HP-300,Hydraulic,727
+2021-08,P002,Engine Oil Filter OF-90,Filters,547
+2021-08,P003,Air Filter AF-120,Filters,747
+2021-08,P004,Track Chain TC-45,Undercarriage,548
+2021-08,P005,Fuel Injector FI-220,Engine,646
+2021-08,P006,Alternator ALT-500,Electrical,736
+2021-08,P007,Hydraulic Hose HH-60,Hydraulic,721
+2021-08,P008,Bucket Tooth BT-10,Attachments,614
+2021-08,P009,Starter Motor SM-700,Electrical,585
+2021-08,P010,Turbocharger TB-900,Engine,805
+2021-08,P011,Hydraulic Cylinder HC-200,Hydraulic,656
+2021-08,P012,Brake Pad BP-40,Brakes,520
+2021-08,P013,Seal Kit SK-15,Seals,752
+2021-08,P014,Transmission Assembly TA-800,Transmission,577
+2021-08,P015,Engine Block EB-600,Engine,639
+2021-08,P016,Radiator RD-250,Cooling,679
+2021-08,P017,Fan Belt FB-30,Belts,612
+2021-08,P018,Wheel Rim WR-24,Undercarriage,684
+2021-08,P019,Swing Motor SWM-350,Hydraulic,764
+2021-08,P020,Pivot Pin PP-12,Pins & Bushes,687
+2021-08,P021,Boom Cylinder BC-400,Hydraulic,671
+2021-08,P022,Control Valve CV-75,Hydraulic,749
+2021-08,P023,Idler Wheel IW-55,Undercarriage,497
+2021-08,P024,Track Roller TR-60,Undercarriage,604
+2021-08,P025,Cabin Glass CG-20,Cabin,640
+2021-08,P026,Grease Cartridge GC-5,Lubricants,659
+2021-08,P027,O-Ring Set OR-50,Seals,713
+2021-08,P028,Light Assembly LA-18,Electrical,693
+2021-08,P029,Pressure Sensor PS-90,Sensors,551
+2021-08,P030,Fuel Pump FP-350,Engine,695
+2021-09,P001,Hydraulic Pump HP-300,Hydraulic,628
+2021-09,P002,Engine Oil Filter OF-90,Filters,596
+2021-09,P003,Air Filter AF-120,Filters,623
+2021-09,P004,Track Chain TC-45,Undercarriage,789
+2021-09,P005,Fuel Injector FI-220,Engine,467
+2021-09,P006,Alternator ALT-500,Electrical,636
+2021-09,P007,Hydraulic Hose HH-60,Hydraulic,659
+2021-09,P008,Bucket Tooth BT-10,Attachments,866
+2021-09,P009,Starter Motor SM-700,Electrical,714
+2021-09,P010,Turbocharger TB-900,Engine,640
+2021-09,P011,Hydraulic Cylinder HC-200,Hydraulic,455
+2021-09,P012,Brake Pad BP-40,Brakes,571
+2021-09,P013,Seal Kit SK-15,Seals,384
+2021-09,P014,Transmission Assembly TA-800,Transmission,560
+2021-09,P015,Engine Block EB-600,Engine,654
+2021-09,P016,Radiator RD-250,Cooling,385
+2021-09,P017,Fan Belt FB-30,Belts,543
+2021-09,P018,Wheel Rim WR-24,Undercarriage,709
+2021-09,P019,Swing Motor SWM-350,Hydraulic,659
+2021-09,P020,Pivot Pin PP-12,Pins & Bushes,575
+2021-09,P021,Boom Cylinder BC-400,Hydraulic,619
+2021-09,P022,Control Valve CV-75,Hydraulic,638
+2021-09,P023,Idler Wheel IW-55,Undercarriage,808
+2021-09,P024,Track Roller TR-60,Undercarriage,655
+2021-09,P025,Cabin Glass CG-20,Cabin,760
+2021-09,P026,Grease Cartridge GC-5,Lubricants,566
+2021-09,P027,O-Ring Set OR-50,Seals,469
+2021-09,P028,Light Assembly LA-18,Electrical,794
+2021-09,P029,Pressure Sensor PS-90,Sensors,709
+2021-09,P030,Fuel Pump FP-350,Engine,549
+2021-10,P001,Hydraulic Pump HP-300,Hydraulic,732
+2021-10,P002,Engine Oil Filter OF-90,Filters,892
+2021-10,P003,Air Filter AF-120,Filters,888
+2021-10,P004,Track Chain TC-45,Undercarriage,743
+2021-10,P005,Fuel Injector FI-220,Engine,854
+2021-10,P006,Alternator ALT-500,Electrical,707
+2021-10,P007,Hydraulic Hose HH-60,Hydraulic,902
+2021-10,P008,Bucket Tooth BT-10,Attachments,663
+2021-10,P009,Starter Motor SM-700,Electrical,804
+2021-10,P010,Turbocharger TB-900,Engine,590
+2021-10,P011,Hydraulic Cylinder HC-200,Hydraulic,784
+2021-10,P012,Brake Pad BP-40,Brakes,563
+2021-10,P013,Seal Kit SK-15,Seals,599
+2021-10,P014,Transmission Assembly TA-800,Transmission,625
+2021-10,P015,Engine Block EB-600,Engine,580
+2021-10,P016,Radiator RD-250,Cooling,617
+2021-10,P017,Fan Belt FB-30,Belts,816
+2021-10,P018,Wheel Rim WR-24,Undercarriage,848
+2021-10,P019,Swing Motor SWM-350,Hydraulic,779
+2021-10,P020,Pivot Pin PP-12,Pins & Bushes,637
+2021-10,P021,Boom Cylinder BC-400,Hydraulic,613
+2021-10,P022,Control Valve CV-75,Hydraulic,532
+2021-10,P023,Idler Wheel IW-55,Undercarriage,681
+2021-10,P024,Track Roller TR-60,Undercarriage,465
+2021-10,P025,Cabin Glass CG-20,Cabin,745
+2021-10,P026,Grease Cartridge GC-5,Lubricants,855
+2021-10,P027,O-Ring Set OR-50,Seals,650
+2021-10,P028,Light Assembly LA-18,Electrical,772
+2021-10,P029,Pressure Sensor PS-90,Sensors,763
+2021-10,P030,Fuel Pump FP-350,Engine,555
+2021-11,P001,Hydraulic Pump HP-300,Hydraulic,643
+2021-11,P002,Engine Oil Filter OF-90,Filters,728
+2021-11,P003,Air Filter AF-120,Filters,749
+2021-11,P004,Track Chain TC-45,Undercarriage,532
+2021-11,P005,Fuel Injector FI-220,Engine,767
+2021-11,P006,Alternator ALT-500,Electrical,744
+2021-11,P007,Hydraulic Hose HH-60,Hydraulic,711
+2021-11,P008,Bucket Tooth BT-10,Attachments,603
+2021-11,P009,Starter Motor SM-700,Electrical,682
+2021-11,P010,Turbocharger TB-900,Engine,787
+2021-11,P011,Hydraulic Cylinder HC-200,Hydraulic,551
+2021-11,P012,Brake Pad BP-40,Brakes,723
+2021-11,P013,Seal Kit SK-15,Seals,697
+2021-11,P014,Transmission Assembly TA-800,Transmission,574
+2021-11,P015,Engine Block EB-600,Engine,657
+2021-11,P016,Radiator RD-250,Cooling,671
+2021-11,P017,Fan Belt FB-30,Belts,787
+2021-11,P018,Wheel Rim WR-24,Undercarriage,840
+2021-11,P019,Swing Motor SWM-350,Hydraulic,514
+2021-11,P020,Pivot Pin PP-12,Pins & Bushes,656
+2021-11,P021,Boom Cylinder BC-400,Hydraulic,728
+2021-11,P022,Control Valve CV-75,Hydraulic,599
+2021-11,P023,Idler Wheel IW-55,Undercarriage,528
+2021-11,P024,Track Roller TR-60,Undercarriage,740
+2021-11,P025,Cabin Glass CG-20,Cabin,564
+2021-11,P026,Grease Cartridge GC-5,Lubricants,678
+2021-11,P027,O-Ring Set OR-50,Seals,740
+2021-11,P028,Light Assembly LA-18,Electrical,673
+2021-11,P029,Pressure Sensor PS-90,Sensors,653
+2021-11,P030,Fuel Pump FP-350,Engine,638
+2021-12,P001,Hydraulic Pump HP-300,Hydraulic,743
+2021-12,P002,Engine Oil Filter OF-90,Filters,736
+2021-12,P003,Air Filter AF-120,Filters,697
+2021-12,P004,Track Chain TC-45,Undercarriage,654
+2021-12,P005,Fuel Injector FI-220,Engine,549
+2021-12,P006,Alternator ALT-500,Electrical,715
+2021-12,P007,Hydraulic Hose HH-60,Hydraulic,794
+2021-12,P008,Bucket Tooth BT-10,Attachments,545
+2021-12,P009,Starter Motor SM-700,Electrical,682
+2021-12,P010,Turbocharger TB-900,Engine,732
+2021-12,P011,Hydraulic Cylinder HC-200,Hydraulic,763
+2021-12,P012,Brake Pad BP-40,Brakes,780
+2021-12,P013,Seal Kit SK-15,Seals,692
+2021-12,P014,Transmission Assembly TA-800,Transmission,663
+2021-12,P015,Engine Block EB-600,Engine,769
+2021-12,P016,Radiator RD-250,Cooling,864
+2021-12,P017,Fan Belt FB-30,Belts,630
+2021-12,P018,Wheel Rim WR-24,Undercarriage,709
+2021-12,P019,Swing Motor SWM-350,Hydraulic,617
+2021-12,P020,Pivot Pin PP-12,Pins & Bushes,633
+2021-12,P021,Boom Cylinder BC-400,Hydraulic,787
+2021-12,P022,Control Valve CV-75,Hydraulic,779
+2021-12,P023,Idler Wheel IW-55,Undercarriage,746
+2021-12,P024,Track Roller TR-60,Undercarriage,645
+2021-12,P025,Cabin Glass CG-20,Cabin,788
+2021-12,P026,Grease Cartridge GC-5,Lubricants,747
+2021-12,P027,O-Ring Set OR-50,Seals,655
+2021-12,P028,Light Assembly LA-18,Electrical,665
+2021-12,P029,Pressure Sensor PS-90,Sensors,568
+2021-12,P030,Fuel Pump FP-350,Engine,500
+2022-01,P001,Hydraulic Pump HP-300,Hydraulic,606
+2022-01,P002,Engine Oil Filter OF-90,Filters,736
+2022-01,P003,Air Filter AF-120,Filters,628
+2022-01,P004,Track Chain TC-45,Undercarriage,595
+2022-01,P005,Fuel Injector FI-220,Engine,813
+2022-01,P006,Alternator ALT-500,Electrical,606
+2022-01,P007,Hydraulic Hose HH-60,Hydraulic,487
+2022-01,P008,Bucket Tooth BT-10,Attachments,551
+2022-01,P009,Starter Motor SM-700,Electrical,626
+2022-01,P010,Turbocharger TB-900,Engine,599
+2022-01,P011,Hydraulic Cylinder HC-200,Hydraulic,692
+2022-01,P012,Brake Pad BP-40,Brakes,716
+2022-01,P013,Seal Kit SK-15,Seals,768
+2022-01,P014,Transmission Assembly TA-800,Transmission,645
+2022-01,P015,Engine Block EB-600,Engine,546
+2022-01,P016,Radiator RD-250,Cooling,771
+2022-01,P017,Fan Belt FB-30,Belts,739
+2022-01,P018,Wheel Rim WR-24,Undercarriage,504
+2022-01,P019,Swing Motor SWM-350,Hydraulic,716
+2022-01,P020,Pivot Pin PP-12,Pins & Bushes,761
+2022-01,P021,Boom Cylinder BC-400,Hydraulic,742
+2022-01,P022,Control Valve CV-75,Hydraulic,650
+2022-01,P023,Idler Wheel IW-55,Undercarriage,634
+2022-01,P024,Track Roller TR-60,Undercarriage,630
+2022-01,P025,Cabin Glass CG-20,Cabin,554
+2022-01,P026,Grease Cartridge GC-5,Lubricants,795
+2022-01,P027,O-Ring Set OR-50,Seals,717
+2022-01,P028,Light Assembly LA-18,Electrical,719
+2022-01,P029,Pressure Sensor PS-90,Sensors,791
+2022-01,P030,Fuel Pump FP-350,Engine,833
+2022-02,P001,Hydraulic Pump HP-300,Hydraulic,595
+2022-02,P002,Engine Oil Filter OF-90,Filters,502
+2022-02,P003,Air Filter AF-120,Filters,579
+2022-02,P004,Track Chain TC-45,Undercarriage,675
+2022-02,P005,Fuel Injector FI-220,Engine,420
+2022-02,P006,Alternator ALT-500,Electrical,722
+2022-02,P007,Hydraulic Hose HH-60,Hydraulic,558
+2022-02,P008,Bucket Tooth BT-10,Attachments,642
+2022-02,P009,Starter Motor SM-700,Electrical,455
+2022-02,P010,Turbocharger TB-900,Engine,603
+2022-02,P011,Hydraulic Cylinder HC-200,Hydraulic,482
+2022-02,P012,Brake Pad BP-40,Brakes,637
+2022-02,P013,Seal Kit SK-15,Seals,606
+2022-02,P014,Transmission Assembly TA-800,Transmission,419
+2022-02,P015,Engine Block EB-600,Engine,728
+2022-02,P016,Radiator RD-250,Cooling,411
+2022-02,P017,Fan Belt FB-30,Belts,478
+2022-02,P018,Wheel Rim WR-24,Undercarriage,506
+2022-02,P019,Swing Motor SWM-350,Hydraulic,664
+2022-02,P020,Pivot Pin PP-12,Pins & Bushes,577
+2022-02,P021,Boom Cylinder BC-400,Hydraulic,474
+2022-02,P022,Control Valve CV-75,Hydraulic,506
+2022-02,P023,Idler Wheel IW-55,Undercarriage,584
+2022-02,P024,Track Roller TR-60,Undercarriage,696
+2022-02,P025,Cabin Glass CG-20,Cabin,483
+2022-02,P026,Grease Cartridge GC-5,Lubricants,560
+2022-02,P027,O-Ring Set OR-50,Seals,518
+2022-02,P028,Light Assembly LA-18,Electrical,415
+2022-02,P029,Pressure Sensor PS-90,Sensors,575
+2022-02,P030,Fuel Pump FP-350,Engine,612
+2022-03,P001,Hydraulic Pump HP-300,Hydraulic,688
+2022-03,P002,Engine Oil Filter OF-90,Filters,666
+2022-03,P003,Air Filter AF-120,Filters,513
+2022-03,P004,Track Chain TC-45,Undercarriage,566
+2022-03,P005,Fuel Injector FI-220,Engine,441
+2022-03,P006,Alternator ALT-500,Electrical,773
+2022-03,P007,Hydraulic Hose HH-60,Hydraulic,889
+2022-03,P008,Bucket Tooth BT-10,Attachments,485
+2022-03,P009,Starter Motor SM-700,Electrical,593
+2022-03,P010,Turbocharger TB-900,Engine,619
+2022-03,P011,Hydraulic Cylinder HC-200,Hydraulic,693
+2022-03,P012,Brake Pad BP-40,Brakes,664
+2022-03,P013,Seal Kit SK-15,Seals,597
+2022-03,P014,Transmission Assembly TA-800,Transmission,632
+2022-03,P015,Engine Block EB-600,Engine,819
+2022-03,P016,Radiator RD-250,Cooling,818
+2022-03,P017,Fan Belt FB-30,Belts,584
+2022-03,P018,Wheel Rim WR-24,Undercarriage,549
+2022-03,P019,Swing Motor SWM-350,Hydraulic,525
+2022-03,P020,Pivot Pin PP-12,Pins & Bushes,659
+2022-03,P021,Boom Cylinder BC-400,Hydraulic,677
+2022-03,P022,Control Valve CV-75,Hydraulic,584
+2022-03,P023,Idler Wheel IW-55,Undercarriage,370
+2022-03,P024,Track Roller TR-60,Undercarriage,657
+2022-03,P025,Cabin Glass CG-20,Cabin,686
+2022-03,P026,Grease Cartridge GC-5,Lubricants,445
+2022-03,P027,O-Ring Set OR-50,Seals,555
+2022-03,P028,Light Assembly LA-18,Electrical,804
+2022-03,P029,Pressure Sensor PS-90,Sensors,709
+2022-03,P030,Fuel Pump FP-350,Engine,766
+2022-04,P001,Hydraulic Pump HP-300,Hydraulic,637
+2022-04,P002,Engine Oil Filter OF-90,Filters,582
+2022-04,P003,Air Filter AF-120,Filters,660
+2022-04,P004,Track Chain TC-45,Undercarriage,481
+2022-04,P005,Fuel Injector FI-220,Engine,600
+2022-04,P006,Alternator ALT-500,Electrical,565
+2022-04,P007,Hydraulic Hose HH-60,Hydraulic,628
+2022-04,P008,Bucket Tooth BT-10,Attachments,657
+2022-04,P009,Starter Motor SM-700,Electrical,569
+2022-04,P010,Turbocharger TB-900,Engine,586
+2022-04,P011,Hydraulic Cylinder HC-200,Hydraulic,742
+2022-04,P012,Brake Pad BP-40,Brakes,575
+2022-04,P013,Seal Kit SK-15,Seals,674
+2022-04,P014,Transmission Assembly TA-800,Transmission,591
+2022-04,P015,Engine Block EB-600,Engine,633
+2022-04,P016,Radiator RD-250,Cooling,670
+2022-04,P017,Fan Belt FB-30,Belts,554
+2022-04,P018,Wheel Rim WR-24,Undercarriage,689
+2022-04,P019,Swing Motor SWM-350,Hydraulic,556
+2022-04,P020,Pivot Pin PP-12,Pins & Bushes,524
+2022-04,P021,Boom Cylinder BC-400,Hydraulic,581
+2022-04,P022,Control Valve CV-75,Hydraulic,520
+2022-04,P023,Idler Wheel IW-55,Undercarriage,632
+2022-04,P024,Track Roller TR-60,Undercarriage,586
+2022-04,P025,Cabin Glass CG-20,Cabin,490
+2022-04,P026,Grease Cartridge GC-5,Lubricants,749
+2022-04,P027,O-Ring Set OR-50,Seals,673
+2022-04,P028,Light Assembly LA-18,Electrical,560
+2022-04,P029,Pressure Sensor PS-90,Sensors,603
+2022-04,P030,Fuel Pump FP-350,Engine,684
+2022-05,P001,Hydraulic Pump HP-300,Hydraulic,803
+2022-05,P002,Engine Oil Filter OF-90,Filters,606
+2022-05,P003,Air Filter AF-120,Filters,703
+2022-05,P004,Track Chain TC-45,Undercarriage,543
+2022-05,P005,Fuel Injector FI-220,Engine,616
+2022-05,P006,Alternator ALT-500,Electrical,692
+2022-05,P007,Hydraulic Hose HH-60,Hydraulic,729
+2022-05,P008,Bucket Tooth BT-10,Attachments,805
+2022-05,P009,Starter Motor SM-700,Electrical,687
+2022-05,P010,Turbocharger TB-900,Engine,678
+2022-05,P011,Hydraulic Cylinder HC-200,Hydraulic,631
+2022-05,P012,Brake Pad BP-40,Brakes,494
+2022-05,P013,Seal Kit SK-15,Seals,720
+2022-05,P014,Transmission Assembly TA-800,Transmission,693
+2022-05,P015,Engine Block EB-600,Engine,701
+2022-05,P016,Radiator RD-250,Cooling,829
+2022-05,P017,Fan Belt FB-30,Belts,688
+2022-05,P018,Wheel Rim WR-24,Undercarriage,759
+2022-05,P019,Swing Motor SWM-350,Hydraulic,630
+2022-05,P020,Pivot Pin PP-12,Pins & Bushes,753
+2022-05,P021,Boom Cylinder BC-400,Hydraulic,890
+2022-05,P022,Control Valve CV-75,Hydraulic,724
+2022-05,P023,Idler Wheel IW-55,Undercarriage,598
+2022-05,P024,Track Roller TR-60,Undercarriage,684
+2022-05,P025,Cabin Glass CG-20,Cabin,634
+2022-05,P026,Grease Cartridge GC-5,Lubricants,803
+2022-05,P027,O-Ring Set OR-50,Seals,675
+2022-05,P028,Light Assembly LA-18,Electrical,703
+2022-05,P029,Pressure Sensor PS-90,Sensors,761
+2022-05,P030,Fuel Pump FP-350,Engine,671
+2022-06,P001,Hydraulic Pump HP-300,Hydraulic,634
+2022-06,P002,Engine Oil Filter OF-90,Filters,572
+2022-06,P003,Air Filter AF-120,Filters,611
+2022-06,P004,Track Chain TC-45,Undercarriage,615
+2022-06,P005,Fuel Injector FI-220,Engine,586
+2022-06,P006,Alternator ALT-500,Electrical,552
+2022-06,P007,Hydraulic Hose HH-60,Hydraulic,599
+2022-06,P008,Bucket Tooth BT-10,Attachments,484
+2022-06,P009,Starter Motor SM-700,Electrical,439
+2022-06,P010,Turbocharger TB-900,Engine,719
+2022-06,P011,Hydraulic Cylinder HC-200,Hydraulic,662
+2022-06,P012,Brake Pad BP-40,Brakes,531
+2022-06,P013,Seal Kit SK-15,Seals,578
+2022-06,P014,Transmission Assembly TA-800,Transmission,529
+2022-06,P015,Engine Block EB-600,Engine,599
+2022-06,P016,Radiator RD-250,Cooling,670
+2022-06,P017,Fan Belt FB-30,Belts,614
+2022-06,P018,Wheel Rim WR-24,Undercarriage,784
+2022-06,P019,Swing Motor SWM-350,Hydraulic,594
+2022-06,P020,Pivot Pin PP-12,Pins & Bushes,370
+2022-06,P021,Boom Cylinder BC-400,Hydraulic,679
+2022-06,P022,Control Valve CV-75,Hydraulic,764
+2022-06,P023,Idler Wheel IW-55,Undercarriage,600
+2022-06,P024,Track Roller TR-60,Undercarriage,554
+2022-06,P025,Cabin Glass CG-20,Cabin,562
+2022-06,P026,Grease Cartridge GC-5,Lubricants,590
+2022-06,P027,O-Ring Set OR-50,Seals,484
+2022-06,P028,Light Assembly LA-18,Electrical,652
+2022-06,P029,Pressure Sensor PS-90,Sensors,672
+2022-06,P030,Fuel Pump FP-350,Engine,513
+2022-07,P001,Hydraulic Pump HP-300,Hydraulic,635
+2022-07,P002,Engine Oil Filter OF-90,Filters,488
+2022-07,P003,Air Filter AF-120,Filters,650
+2022-07,P004,Track Chain TC-45,Undercarriage,649
+2022-07,P005,Fuel Injector FI-220,Engine,536
+2022-07,P006,Alternator ALT-500,Electrical,652
+2022-07,P007,Hydraulic Hose HH-60,Hydraulic,682
+2022-07,P008,Bucket Tooth BT-10,Attachments,748
+2022-07,P009,Starter Motor SM-700,Electrical,657
+2022-07,P010,Turbocharger TB-900,Engine,494
+2022-07,P011,Hydraulic Cylinder HC-200,Hydraulic,479
+2022-07,P012,Brake Pad BP-40,Brakes,689
+2022-07,P013,Seal Kit SK-15,Seals,430
+2022-07,P014,Transmission Assembly TA-800,Transmission,605
+2022-07,P015,Engine Block EB-600,Engine,590
+2022-07,P016,Radiator RD-250,Cooling,651
+2022-07,P017,Fan Belt FB-30,Belts,504
+2022-07,P018,Wheel Rim WR-24,Undercarriage,640
+2022-07,P019,Swing Motor SWM-350,Hydraulic,626
+2022-07,P020,Pivot Pin PP-12,Pins & Bushes,577
+2022-07,P021,Boom Cylinder BC-400,Hydraulic,603
+2022-07,P022,Control Valve CV-75,Hydraulic,662
+2022-07,P023,Idler Wheel IW-55,Undercarriage,706
+2022-07,P024,Track Roller TR-60,Undercarriage,580
+2022-07,P025,Cabin Glass CG-20,Cabin,727
+2022-07,P026,Grease Cartridge GC-5,Lubricants,625
+2022-07,P027,O-Ring Set OR-50,Seals,507
+2022-07,P028,Light Assembly LA-18,Electrical,416
+2022-07,P029,Pressure Sensor PS-90,Sensors,653
+2022-07,P030,Fuel Pump FP-350,Engine,632
+2022-08,P001,Hydraulic Pump HP-300,Hydraulic,662
+2022-08,P002,Engine Oil Filter OF-90,Filters,715
+2022-08,P003,Air Filter AF-120,Filters,676
+2022-08,P004,Track Chain TC-45,Undercarriage,659
+2022-08,P005,Fuel Injector FI-220,Engine,754
+2022-08,P006,Alternator ALT-500,Electrical,640
+2022-08,P007,Hydraulic Hose HH-60,Hydraulic,608
+2022-08,P008,Bucket Tooth BT-10,Attachments,460
+2022-08,P009,Starter Motor SM-700,Electrical,750
+2022-08,P010,Turbocharger TB-900,Engine,576
+2022-08,P011,Hydraulic Cylinder HC-200,Hydraulic,787
+2022-08,P012,Brake Pad BP-40,Brakes,739
+2022-08,P013,Seal Kit SK-15,Seals,600
+2022-08,P014,Transmission Assembly TA-800,Transmission,677
+2022-08,P015,Engine Block EB-600,Engine,713
+2022-08,P016,Radiator RD-250,Cooling,667
+2022-08,P017,Fan Belt FB-30,Belts,642
+2022-08,P018,Wheel Rim WR-24,Undercarriage,711
+2022-08,P019,Swing Motor SWM-350,Hydraulic,719
+2022-08,P020,Pivot Pin PP-12,Pins & Bushes,888
+2022-08,P021,Boom Cylinder BC-400,Hydraulic,583
+2022-08,P022,Control Valve CV-75,Hydraulic,799
+2022-08,P023,Idler Wheel IW-55,Undercarriage,671
+2022-08,P024,Track Roller TR-60,Undercarriage,632
+2022-08,P025,Cabin Glass CG-20,Cabin,783
+2022-08,P026,Grease Cartridge GC-5,Lubricants,591
+2022-08,P027,O-Ring Set OR-50,Seals,696
+2022-08,P028,Light Assembly LA-18,Electrical,664
+2022-08,P029,Pressure Sensor PS-90,Sensors,529
+2022-08,P030,Fuel Pump FP-350,Engine,604
+2022-09,P001,Hydraulic Pump HP-300,Hydraulic,576
+2022-09,P002,Engine Oil Filter OF-90,Filters,551
+2022-09,P003,Air Filter AF-120,Filters,638
+2022-09,P004,Track Chain TC-45,Undercarriage,789
+2022-09,P005,Fuel Injector FI-220,Engine,597
+2022-09,P006,Alternator ALT-500,Electrical,810
+2022-09,P007,Hydraulic Hose HH-60,Hydraulic,681
+2022-09,P008,Bucket Tooth BT-10,Attachments,527
+2022-09,P009,Starter Motor SM-700,Electrical,689
+2022-09,P010,Turbocharger TB-900,Engine,709
+2022-09,P011,Hydraulic Cylinder HC-200,Hydraulic,535
+2022-09,P012,Brake Pad BP-40,Brakes,645
+2022-09,P013,Seal Kit SK-15,Seals,608
+2022-09,P014,Transmission Assembly TA-800,Transmission,696
+2022-09,P015,Engine Block EB-600,Engine,563
+2022-09,P016,Radiator RD-250,Cooling,550
+2022-09,P017,Fan Belt FB-30,Belts,680
+2022-09,P018,Wheel Rim WR-24,Undercarriage,631
+2022-09,P019,Swing Motor SWM-350,Hydraulic,592
+2022-09,P020,Pivot Pin PP-12,Pins & Bushes,366
+2022-09,P021,Boom Cylinder BC-400,Hydraulic,666
+2022-09,P022,Control Valve CV-75,Hydraulic,543
+2022-09,P023,Idler Wheel IW-55,Undercarriage,649
+2022-09,P024,Track Roller TR-60,Undercarriage,551
+2022-09,P025,Cabin Glass CG-20,Cabin,534
+2022-09,P026,Grease Cartridge GC-5,Lubricants,611
+2022-09,P027,O-Ring Set OR-50,Seals,626
+2022-09,P028,Light Assembly LA-18,Electrical,529
+2022-09,P029,Pressure Sensor PS-90,Sensors,681
+2022-09,P030,Fuel Pump FP-350,Engine,524
+2022-10,P001,Hydraulic Pump HP-300,Hydraulic,680
+2022-10,P002,Engine Oil Filter OF-90,Filters,525
+2022-10,P003,Air Filter AF-120,Filters,586
+2022-10,P004,Track Chain TC-45,Undercarriage,594
+2022-10,P005,Fuel Injector FI-220,Engine,657
+2022-10,P006,Alternator ALT-500,Electrical,558
+2022-10,P007,Hydraulic Hose HH-60,Hydraulic,594
+2022-10,P008,Bucket Tooth BT-10,Attachments,747
+2022-10,P009,Starter Motor SM-700,Electrical,580
+2022-10,P010,Turbocharger TB-900,Engine,683
+2022-10,P011,Hydraulic Cylinder HC-200,Hydraulic,773
+2022-10,P012,Brake Pad BP-40,Brakes,743
+2022-10,P013,Seal Kit SK-15,Seals,665
+2022-10,P014,Transmission Assembly TA-800,Transmission,771
+2022-10,P015,Engine Block EB-600,Engine,702
+2022-10,P016,Radiator RD-250,Cooling,722
+2022-10,P017,Fan Belt FB-30,Belts,591
+2022-10,P018,Wheel Rim WR-24,Undercarriage,536
+2022-10,P019,Swing Motor SWM-350,Hydraulic,581
+2022-10,P020,Pivot Pin PP-12,Pins & Bushes,577
+2022-10,P021,Boom Cylinder BC-400,Hydraulic,636
+2022-10,P022,Control Valve CV-75,Hydraulic,732
+2022-10,P023,Idler Wheel IW-55,Undercarriage,678
+2022-10,P024,Track Roller TR-60,Undercarriage,472
+2022-10,P025,Cabin Glass CG-20,Cabin,550
+2022-10,P026,Grease Cartridge GC-5,Lubricants,810
+2022-10,P027,O-Ring Set OR-50,Seals,763
+2022-10,P028,Light Assembly LA-18,Electrical,543
+2022-10,P029,Pressure Sensor PS-90,Sensors,590
+2022-10,P030,Fuel Pump FP-350,Engine,651
+2022-11,P001,Hydraulic Pump HP-300,Hydraulic,492
+2022-11,P002,Engine Oil Filter OF-90,Filters,476
+2022-11,P003,Air Filter AF-120,Filters,623
+2022-11,P004,Track Chain TC-45,Undercarriage,700
+2022-11,P005,Fuel Injector FI-220,Engine,347
+2022-11,P006,Alternator ALT-500,Electrical,610
+2022-11,P007,Hydraulic Hose HH-60,Hydraulic,690
+2022-11,P008,Bucket Tooth BT-10,Attachments,686
+2022-11,P009,Starter Motor SM-700,Electrical,673
+2022-11,P010,Turbocharger TB-900,Engine,574
+2022-11,P011,Hydraulic Cylinder HC-200,Hydraulic,767
+2022-11,P012,Brake Pad BP-40,Brakes,714
+2022-11,P013,Seal Kit SK-15,Seals,632
+2022-11,P014,Transmission Assembly TA-800,Transmission,817
+2022-11,P015,Engine Block EB-600,Engine,570
+2022-11,P016,Radiator RD-250,Cooling,630
+2022-11,P017,Fan Belt FB-30,Belts,595
+2022-11,P018,Wheel Rim WR-24,Undercarriage,441
+2022-11,P019,Swing Motor SWM-350,Hydraulic,451
+2022-11,P020,Pivot Pin PP-12,Pins & Bushes,658
+2022-11,P021,Boom Cylinder BC-400,Hydraulic,655
+2022-11,P022,Control Valve CV-75,Hydraulic,490
+2022-11,P023,Idler Wheel IW-55,Undercarriage,476
+2022-11,P024,Track Roller TR-60,Undercarriage,503
+2022-11,P025,Cabin Glass CG-20,Cabin,538
+2022-11,P026,Grease Cartridge GC-5,Lubricants,619
+2022-11,P027,O-Ring Set OR-50,Seals,509
+2022-11,P028,Light Assembly LA-18,Electrical,552
+2022-11,P029,Pressure Sensor PS-90,Sensors,680
+2022-11,P030,Fuel Pump FP-350,Engine,708
+2022-12,P001,Hydraulic Pump HP-300,Hydraulic,710
+2022-12,P002,Engine Oil Filter OF-90,Filters,606
+2022-12,P003,Air Filter AF-120,Filters,546
+2022-12,P004,Track Chain TC-45,Undercarriage,617
+2022-12,P005,Fuel Injector FI-220,Engine,551
+2022-12,P006,Alternator ALT-500,Electrical,600
+2022-12,P007,Hydraulic Hose HH-60,Hydraulic,791
+2022-12,P008,Bucket Tooth BT-10,Attachments,597
+2022-12,P009,Starter Motor SM-700,Electrical,585
+2022-12,P010,Turbocharger TB-900,Engine,736
+2022-12,P011,Hydraulic Cylinder HC-200,Hydraulic,518
+2022-12,P012,Brake Pad BP-40,Brakes,674
+2022-12,P013,Seal Kit SK-15,Seals,598
+2022-12,P014,Transmission Assembly TA-800,Transmission,648
+2022-12,P015,Engine Block EB-600,Engine,521
+2022-12,P016,Radiator RD-250,Cooling,537
+2022-12,P017,Fan Belt FB-30,Belts,619
+2022-12,P018,Wheel Rim WR-24,Undercarriage,490
+2022-12,P019,Swing Motor SWM-350,Hydraulic,713
+2022-12,P020,Pivot Pin PP-12,Pins & Bushes,572
+2022-12,P021,Boom Cylinder BC-400,Hydraulic,744
+2022-12,P022,Control Valve CV-75,Hydraulic,649
+2022-12,P023,Idler Wheel IW-55,Undercarriage,514
+2022-12,P024,Track Roller TR-60,Undercarriage,546
+2022-12,P025,Cabin Glass CG-20,Cabin,538
+2022-12,P026,Grease Cartridge GC-5,Lubricants,643
+2022-12,P027,O-Ring Set OR-50,Seals,713
+2022-12,P028,Light Assembly LA-18,Electrical,605
+2022-12,P029,Pressure Sensor PS-90,Sensors,640
+2022-12,P030,Fuel Pump FP-350,Engine,569
+2023-01,P001,Hydraulic Pump HP-300,Hydraulic,631
+2023-01,P002,Engine Oil Filter OF-90,Filters,462
+2023-01,P003,Air Filter AF-120,Filters,613
+2023-01,P004,Track Chain TC-45,Undercarriage,548
+2023-01,P005,Fuel Injector FI-220,Engine,507
+2023-01,P006,Alternator ALT-500,Electrical,662
+2023-01,P007,Hydraulic Hose HH-60,Hydraulic,550
+2023-01,P008,Bucket Tooth BT-10,Attachments,834
+2023-01,P009,Starter Motor SM-700,Electrical,596
+2023-01,P010,Turbocharger TB-900,Engine,631
+2023-01,P011,Hydraulic Cylinder HC-200,Hydraulic,509
+2023-01,P012,Brake Pad BP-40,Brakes,536
+2023-01,P013,Seal Kit SK-15,Seals,502
+2023-01,P014,Transmission Assembly TA-800,Transmission,522
+2023-01,P015,Engine Block EB-600,Engine,539
+2023-01,P016,Radiator RD-250,Cooling,585
+2023-01,P017,Fan Belt FB-30,Belts,511
+2023-01,P018,Wheel Rim WR-24,Undercarriage,597
+2023-01,P019,Swing Motor SWM-350,Hydraulic,489
+2023-01,P020,Pivot Pin PP-12,Pins & Bushes,535
+2023-01,P021,Boom Cylinder BC-400,Hydraulic,642
+2023-01,P022,Control Valve CV-75,Hydraulic,604
+2023-01,P023,Idler Wheel IW-55,Undercarriage,507
+2023-01,P024,Track Roller TR-60,Undercarriage,485
+2023-01,P025,Cabin Glass CG-20,Cabin,762
+2023-01,P026,Grease Cartridge GC-5,Lubricants,497
+2023-01,P027,O-Ring Set OR-50,Seals,477
+2023-01,P028,Light Assembly LA-18,Electrical,513
+2023-01,P029,Pressure Sensor PS-90,Sensors,675
+2023-01,P030,Fuel Pump FP-350,Engine,640
+2023-02,P001,Hydraulic Pump HP-300,Hydraulic,631
+2023-02,P002,Engine Oil Filter OF-90,Filters,544
+2023-02,P003,Air Filter AF-120,Filters,593
+2023-02,P004,Track Chain TC-45,Undercarriage,731
+2023-02,P005,Fuel Injector FI-220,Engine,586
+2023-02,P006,Alternator ALT-500,Electrical,730
+2023-02,P007,Hydraulic Hose HH-60,Hydraulic,561
+2023-02,P008,Bucket Tooth BT-10,Attachments,416
+2023-02,P009,Starter Motor SM-700,Electrical,477
+2023-02,P010,Turbocharger TB-900,Engine,659
+2023-02,P011,Hydraulic Cylinder HC-200,Hydraulic,735
+2023-02,P012,Brake Pad BP-40,Brakes,649
+2023-02,P013,Seal Kit SK-15,Seals,708
+2023-02,P014,Transmission Assembly TA-800,Transmission,691
+2023-02,P015,Engine Block EB-600,Engine,504
+2023-02,P016,Radiator RD-250,Cooling,622
+2023-02,P017,Fan Belt FB-30,Belts,430
+2023-02,P018,Wheel Rim WR-24,Undercarriage,543
+2023-02,P019,Swing Motor SWM-350,Hydraulic,588
+2023-02,P020,Pivot Pin PP-12,Pins & Bushes,624
+2023-02,P021,Boom Cylinder BC-400,Hydraulic,491
+2023-02,P022,Control Valve CV-75,Hydraulic,575
+2023-02,P023,Idler Wheel IW-55,Undercarriage,633
+2023-02,P024,Track Roller TR-60,Undercarriage,516
+2023-02,P025,Cabin Glass CG-20,Cabin,522
+2023-02,P026,Grease Cartridge GC-5,Lubricants,540
+2023-02,P027,O-Ring Set OR-50,Seals,392
+2023-02,P028,Light Assembly LA-18,Electrical,621
+2023-02,P029,Pressure Sensor PS-90,Sensors,590
+2023-02,P030,Fuel Pump FP-350,Engine,640
+2023-03,P001,Hydraulic Pump HP-300,Hydraulic,791
+2023-03,P002,Engine Oil Filter OF-90,Filters,514
+2023-03,P003,Air Filter AF-120,Filters,697
+2023-03,P004,Track Chain TC-45,Undercarriage,646
+2023-03,P005,Fuel Injector FI-220,Engine,782
+2023-03,P006,Alternator ALT-500,Electrical,635
+2023-03,P007,Hydraulic Hose HH-60,Hydraulic,690
+2023-03,P008,Bucket Tooth BT-10,Attachments,609
+2023-03,P009,Starter Motor SM-700,Electrical,570
+2023-03,P010,Turbocharger TB-900,Engine,528
+2023-03,P011,Hydraulic Cylinder HC-200,Hydraulic,651
+2023-03,P012,Brake Pad BP-40,Brakes,697
+2023-03,P013,Seal Kit SK-15,Seals,672
+2023-03,P014,Transmission Assembly TA-800,Transmission,762
+2023-03,P015,Engine Block EB-600,Engine,727
+2023-03,P016,Radiator RD-250,Cooling,674
+2023-03,P017,Fan Belt FB-30,Belts,688
+2023-03,P018,Wheel Rim WR-24,Undercarriage,711
+2023-03,P019,Swing Motor SWM-350,Hydraulic,880
+2023-03,P020,Pivot Pin PP-12,Pins & Bushes,783
+2023-03,P021,Boom Cylinder BC-400,Hydraulic,610
+2023-03,P022,Control Valve CV-75,Hydraulic,795
+2023-03,P023,Idler Wheel IW-55,Undercarriage,831
+2023-03,P024,Track Roller TR-60,Undercarriage,770
+2023-03,P025,Cabin Glass CG-20,Cabin,794
+2023-03,P026,Grease Cartridge GC-5,Lubricants,662
+2023-03,P027,O-Ring Set OR-50,Seals,600
+2023-03,P028,Light Assembly LA-18,Electrical,879
+2023-03,P029,Pressure Sensor PS-90,Sensors,590
+2023-03,P030,Fuel Pump FP-350,Engine,547
+2023-04,P001,Hydraulic Pump HP-300,Hydraulic,626
+2023-04,P002,Engine Oil Filter OF-90,Filters,700
+2023-04,P003,Air Filter AF-120,Filters,674
+2023-04,P004,Track Chain TC-45,Undercarriage,656
+2023-04,P005,Fuel Injector FI-220,Engine,741
+2023-04,P006,Alternator ALT-500,Electrical,675
+2023-04,P007,Hydraulic Hose HH-60,Hydraulic,577
+2023-04,P008,Bucket Tooth BT-10,Attachments,695
+2023-04,P009,Starter Motor SM-700,Electrical,763
+2023-04,P010,Turbocharger TB-900,Engine,696
+2023-04,P011,Hydraulic Cylinder HC-200,Hydraulic,660
+2023-04,P012,Brake Pad BP-40,Brakes,594
+2023-04,P013,Seal Kit SK-15,Seals,527
+2023-04,P014,Transmission Assembly TA-800,Transmission,677
+2023-04,P015,Engine Block EB-600,Engine,882
+2023-04,P016,Radiator RD-250,Cooling,675
+2023-04,P017,Fan Belt FB-30,Belts,544
+2023-04,P018,Wheel Rim WR-24,Undercarriage,623
+2023-04,P019,Swing Motor SWM-350,Hydraulic,708
+2023-04,P020,Pivot Pin PP-12,Pins & Bushes,723
+2023-04,P021,Boom Cylinder BC-400,Hydraulic,596
+2023-04,P022,Control Valve CV-75,Hydraulic,642
+2023-04,P023,Idler Wheel IW-55,Undercarriage,711
+2023-04,P024,Track Roller TR-60,Undercarriage,670
+2023-04,P025,Cabin Glass CG-20,Cabin,720
+2023-04,P026,Grease Cartridge GC-5,Lubricants,603
+2023-04,P027,O-Ring Set OR-50,Seals,686
+2023-04,P028,Light Assembly LA-18,Electrical,575
+2023-04,P029,Pressure Sensor PS-90,Sensors,567
+2023-04,P030,Fuel Pump FP-350,Engine,751
+2023-05,P001,Hydraulic Pump HP-300,Hydraulic,453
+2023-05,P002,Engine Oil Filter OF-90,Filters,537
+2023-05,P003,Air Filter AF-120,Filters,658
+2023-05,P004,Track Chain TC-45,Undercarriage,595
+2023-05,P005,Fuel Injector FI-220,Engine,564
+2023-05,P006,Alternator ALT-500,Electrical,688
+2023-05,P007,Hydraulic Hose HH-60,Hydraulic,703
+2023-05,P008,Bucket Tooth BT-10,Attachments,525
+2023-05,P009,Starter Motor SM-700,Electrical,623
+2023-05,P010,Turbocharger TB-900,Engine,585
+2023-05,P011,Hydraulic Cylinder HC-200,Hydraulic,661
+2023-05,P012,Brake Pad BP-40,Brakes,721
+2023-05,P013,Seal Kit SK-15,Seals,517
+2023-05,P014,Transmission Assembly TA-800,Transmission,585
+2023-05,P015,Engine Block EB-600,Engine,585
+2023-05,P016,Radiator RD-250,Cooling,486
+2023-05,P017,Fan Belt FB-30,Belts,716
+2023-05,P018,Wheel Rim WR-24,Undercarriage,633
+2023-05,P019,Swing Motor SWM-350,Hydraulic,511
+2023-05,P020,Pivot Pin PP-12,Pins & Bushes,579
+2023-05,P021,Boom Cylinder BC-400,Hydraulic,584
+2023-05,P022,Control Valve CV-75,Hydraulic,671
+2023-05,P023,Idler Wheel IW-55,Undercarriage,498
+2023-05,P024,Track Roller TR-60,Undercarriage,635
+2023-05,P025,Cabin Glass CG-20,Cabin,665
+2023-05,P026,Grease Cartridge GC-5,Lubricants,598
+2023-05,P027,O-Ring Set OR-50,Seals,612
+2023-05,P028,Light Assembly LA-18,Electrical,582
+2023-05,P029,Pressure Sensor PS-90,Sensors,627
+2023-05,P030,Fuel Pump FP-350,Engine,635
+2023-06,P001,Hydraulic Pump HP-300,Hydraulic,638
+2023-06,P002,Engine Oil Filter OF-90,Filters,607
+2023-06,P003,Air Filter AF-120,Filters,577
+2023-06,P004,Track Chain TC-45,Undercarriage,628
+2023-06,P005,Fuel Injector FI-220,Engine,687
+2023-06,P006,Alternator ALT-500,Electrical,724
+2023-06,P007,Hydraulic Hose HH-60,Hydraulic,606
+2023-06,P008,Bucket Tooth BT-10,Attachments,506
+2023-06,P009,Starter Motor SM-700,Electrical,589
+2023-06,P010,Turbocharger TB-900,Engine,630
+2023-06,P011,Hydraulic Cylinder HC-200,Hydraulic,642
+2023-06,P012,Brake Pad BP-40,Brakes,549
+2023-06,P013,Seal Kit SK-15,Seals,507
+2023-06,P014,Transmission Assembly TA-800,Transmission,424
+2023-06,P015,Engine Block EB-600,Engine,619
+2023-06,P016,Radiator RD-250,Cooling,607
+2023-06,P017,Fan Belt FB-30,Belts,565
+2023-06,P018,Wheel Rim WR-24,Undercarriage,660
+2023-06,P019,Swing Motor SWM-350,Hydraulic,666
+2023-06,P020,Pivot Pin PP-12,Pins & Bushes,591
+2023-06,P021,Boom Cylinder BC-400,Hydraulic,785
+2023-06,P022,Control Valve CV-75,Hydraulic,731
+2023-06,P023,Idler Wheel IW-55,Undercarriage,531
+2023-06,P024,Track Roller TR-60,Undercarriage,822
+2023-06,P025,Cabin Glass CG-20,Cabin,574
+2023-06,P026,Grease Cartridge GC-5,Lubricants,670
+2023-06,P027,O-Ring Set OR-50,Seals,816
+2023-06,P028,Light Assembly LA-18,Electrical,756
+2023-06,P029,Pressure Sensor PS-90,Sensors,651
+2023-06,P030,Fuel Pump FP-350,Engine,720
+2023-07,P001,Hydraulic Pump HP-300,Hydraulic,640
+2023-07,P002,Engine Oil Filter OF-90,Filters,569
+2023-07,P003,Air Filter AF-120,Filters,638
+2023-07,P004,Track Chain TC-45,Undercarriage,595
+2023-07,P005,Fuel Injector FI-220,Engine,777
+2023-07,P006,Alternator ALT-500,Electrical,771
+2023-07,P007,Hydraulic Hose HH-60,Hydraulic,602
+2023-07,P008,Bucket Tooth BT-10,Attachments,640
+2023-07,P009,Starter Motor SM-700,Electrical,553
+2023-07,P010,Turbocharger TB-900,Engine,737
+2023-07,P011,Hydraulic Cylinder HC-200,Hydraulic,483
+2023-07,P012,Brake Pad BP-40,Brakes,538
+2023-07,P013,Seal Kit SK-15,Seals,695
+2023-07,P014,Transmission Assembly TA-800,Transmission,625
+2023-07,P015,Engine Block EB-600,Engine,588
+2023-07,P016,Radiator RD-250,Cooling,709
+2023-07,P017,Fan Belt FB-30,Belts,597
+2023-07,P018,Wheel Rim WR-24,Undercarriage,800
+2023-07,P019,Swing Motor SWM-350,Hydraulic,543
+2023-07,P020,Pivot Pin PP-12,Pins & Bushes,621
+2023-07,P021,Boom Cylinder BC-400,Hydraulic,620
+2023-07,P022,Control Valve CV-75,Hydraulic,696
+2023-07,P023,Idler Wheel IW-55,Undercarriage,546
+2023-07,P024,Track Roller TR-60,Undercarriage,716
+2023-07,P025,Cabin Glass CG-20,Cabin,542
+2023-07,P026,Grease Cartridge GC-5,Lubricants,732
+2023-07,P027,O-Ring Set OR-50,Seals,562
+2023-07,P028,Light Assembly LA-18,Electrical,609
+2023-07,P029,Pressure Sensor PS-90,Sensors,539
+2023-07,P030,Fuel Pump FP-350,Engine,603
+2023-08,P001,Hydraulic Pump HP-300,Hydraulic,570
+2023-08,P002,Engine Oil Filter OF-90,Filters,689
+2023-08,P003,Air Filter AF-120,Filters,759
+2023-08,P004,Track Chain TC-45,Undercarriage,735
+2023-08,P005,Fuel Injector FI-220,Engine,714
+2023-08,P006,Alternator ALT-500,Electrical,672
+2023-08,P007,Hydraulic Hose HH-60,Hydraulic,585
+2023-08,P008,Bucket Tooth BT-10,Attachments,663
+2023-08,P009,Starter Motor SM-700,Electrical,706
+2023-08,P010,Turbocharger TB-900,Engine,632
+2023-08,P011,Hydraulic Cylinder HC-200,Hydraulic,609
+2023-08,P012,Brake Pad BP-40,Brakes,609
+2023-08,P013,Seal Kit SK-15,Seals,633
+2023-08,P014,Transmission Assembly TA-800,Transmission,649
+2023-08,P015,Engine Block EB-600,Engine,758
+2023-08,P016,Radiator RD-250,Cooling,602
+2023-08,P017,Fan Belt FB-30,Belts,550
+2023-08,P018,Wheel Rim WR-24,Undercarriage,636
+2023-08,P019,Swing Motor SWM-350,Hydraulic,712
+2023-08,P020,Pivot Pin PP-12,Pins & Bushes,635
+2023-08,P021,Boom Cylinder BC-400,Hydraulic,537
+2023-08,P022,Control Valve CV-75,Hydraulic,764
+2023-08,P023,Idler Wheel IW-55,Undercarriage,540
+2023-08,P024,Track Roller TR-60,Undercarriage,584
+2023-08,P025,Cabin Glass CG-20,Cabin,735
+2023-08,P026,Grease Cartridge GC-5,Lubricants,711
+2023-08,P027,O-Ring Set OR-50,Seals,648
+2023-08,P028,Light Assembly LA-18,Electrical,738
+2023-08,P029,Pressure Sensor PS-90,Sensors,545
+2023-08,P030,Fuel Pump FP-350,Engine,668
+2023-09,P001,Hydraulic Pump HP-300,Hydraulic,697
+2023-09,P002,Engine Oil Filter OF-90,Filters,820
+2023-09,P003,Air Filter AF-120,Filters,619
+2023-09,P004,Track Chain TC-45,Undercarriage,721
+2023-09,P005,Fuel Injector FI-220,Engine,718
+2023-09,P006,Alternator ALT-500,Electrical,822
+2023-09,P007,Hydraulic Hose HH-60,Hydraulic,680
+2023-09,P008,Bucket Tooth BT-10,Attachments,835
+2023-09,P009,Starter Motor SM-700,Electrical,640
+2023-09,P010,Turbocharger TB-900,Engine,925
+2023-09,P011,Hydraulic Cylinder HC-200,Hydraulic,660
+2023-09,P012,Brake Pad BP-40,Brakes,732
+2023-09,P013,Seal Kit SK-15,Seals,557
+2023-09,P014,Transmission Assembly TA-800,Transmission,591
+2023-09,P015,Engine Block EB-600,Engine,668
+2023-09,P016,Radiator RD-250,Cooling,416
+2023-09,P017,Fan Belt FB-30,Belts,749
+2023-09,P018,Wheel Rim WR-24,Undercarriage,753
+2023-09,P019,Swing Motor SWM-350,Hydraulic,732
+2023-09,P020,Pivot Pin PP-12,Pins & Bushes,826
+2023-09,P021,Boom Cylinder BC-400,Hydraulic,628
+2023-09,P022,Control Valve CV-75,Hydraulic,754
+2023-09,P023,Idler Wheel IW-55,Undercarriage,726
+2023-09,P024,Track Roller TR-60,Undercarriage,614
+2023-09,P025,Cabin Glass CG-20,Cabin,732
+2023-09,P026,Grease Cartridge GC-5,Lubricants,753
+2023-09,P027,O-Ring Set OR-50,Seals,644
+2023-09,P028,Light Assembly LA-18,Electrical,730
+2023-09,P029,Pressure Sensor PS-90,Sensors,749
+2023-09,P030,Fuel Pump FP-350,Engine,600
+2023-10,P001,Hydraulic Pump HP-300,Hydraulic,652
+2023-10,P002,Engine Oil Filter OF-90,Filters,471
+2023-10,P003,Air Filter AF-120,Filters,742
+2023-10,P004,Track Chain TC-45,Undercarriage,613
+2023-10,P005,Fuel Injector FI-220,Engine,653
+2023-10,P006,Alternator ALT-500,Electrical,595
+2023-10,P007,Hydraulic Hose HH-60,Hydraulic,597
+2023-10,P008,Bucket Tooth BT-10,Attachments,575
+2023-10,P009,Starter Motor SM-700,Electrical,649
+2023-10,P010,Turbocharger TB-900,Engine,721
+2023-10,P011,Hydraulic Cylinder HC-200,Hydraulic,738
+2023-10,P012,Brake Pad BP-40,Brakes,611
+2023-10,P013,Seal Kit SK-15,Seals,615
+2023-10,P014,Transmission Assembly TA-800,Transmission,622
+2023-10,P015,Engine Block EB-600,Engine,643
+2023-10,P016,Radiator RD-250,Cooling,733
+2023-10,P017,Fan Belt FB-30,Belts,644
+2023-10,P018,Wheel Rim WR-24,Undercarriage,556
+2023-10,P019,Swing Motor SWM-350,Hydraulic,564
+2023-10,P020,Pivot Pin PP-12,Pins & Bushes,659
+2023-10,P021,Boom Cylinder BC-400,Hydraulic,521
+2023-10,P022,Control Valve CV-75,Hydraulic,546
+2023-10,P023,Idler Wheel IW-55,Undercarriage,600
+2023-10,P024,Track Roller TR-60,Undercarriage,449
+2023-10,P025,Cabin Glass CG-20,Cabin,515
+2023-10,P026,Grease Cartridge GC-5,Lubricants,524
+2023-10,P027,O-Ring Set OR-50,Seals,669
+2023-10,P028,Light Assembly LA-18,Electrical,560
+2023-10,P029,Pressure Sensor PS-90,Sensors,672
+2023-10,P030,Fuel Pump FP-350,Engine,508
+2023-11,P001,Hydraulic Pump HP-300,Hydraulic,647
+2023-11,P002,Engine Oil Filter OF-90,Filters,574
+2023-11,P003,Air Filter AF-120,Filters,668
+2023-11,P004,Track Chain TC-45,Undercarriage,597
+2023-11,P005,Fuel Injector FI-220,Engine,546
+2023-11,P006,Alternator ALT-500,Electrical,551
+2023-11,P007,Hydraulic Hose HH-60,Hydraulic,670
+2023-11,P008,Bucket Tooth BT-10,Attachments,522
+2023-11,P009,Starter Motor SM-700,Electrical,519
+2023-11,P010,Turbocharger TB-900,Engine,648
+2023-11,P011,Hydraulic Cylinder HC-200,Hydraulic,730
+2023-11,P012,Brake Pad BP-40,Brakes,591
+2023-11,P013,Seal Kit SK-15,Seals,621
+2023-11,P014,Transmission Assembly TA-800,Transmission,522
+2023-11,P015,Engine Block EB-600,Engine,570
+2023-11,P016,Radiator RD-250,Cooling,630
+2023-11,P017,Fan Belt FB-30,Belts,551
+2023-11,P018,Wheel Rim WR-24,Undercarriage,696
+2023-11,P019,Swing Motor SWM-350,Hydraulic,796
+2023-11,P020,Pivot Pin PP-12,Pins & Bushes,627
+2023-11,P021,Boom Cylinder BC-400,Hydraulic,596
+2023-11,P022,Control Valve CV-75,Hydraulic,633
+2023-11,P023,Idler Wheel IW-55,Undercarriage,678
+2023-11,P024,Track Roller TR-60,Undercarriage,429
+2023-11,P025,Cabin Glass CG-20,Cabin,528
+2023-11,P026,Grease Cartridge GC-5,Lubricants,612
+2023-11,P027,O-Ring Set OR-50,Seals,603
+2023-11,P028,Light Assembly LA-18,Electrical,561
+2023-11,P029,Pressure Sensor PS-90,Sensors,535
+2023-11,P030,Fuel Pump FP-350,Engine,551
+2023-12,P001,Hydraulic Pump HP-300,Hydraulic,639
+2023-12,P002,Engine Oil Filter OF-90,Filters,572
+2023-12,P003,Air Filter AF-120,Filters,620
+2023-12,P004,Track Chain TC-45,Undercarriage,533
+2023-12,P005,Fuel Injector FI-220,Engine,612
+2023-12,P006,Alternator ALT-500,Electrical,588
+2023-12,P007,Hydraulic Hose HH-60,Hydraulic,612
+2023-12,P008,Bucket Tooth BT-10,Attachments,667
+2023-12,P009,Starter Motor SM-700,Electrical,635
+2023-12,P010,Turbocharger TB-900,Engine,598
+2023-12,P011,Hydraulic Cylinder HC-200,Hydraulic,646
+2023-12,P012,Brake Pad BP-40,Brakes,650
+2023-12,P013,Seal Kit SK-15,Seals,605
+2023-12,P014,Transmission Assembly TA-800,Transmission,562
+2023-12,P015,Engine Block EB-600,Engine,562
+2023-12,P016,Radiator RD-250,Cooling,730
+2023-12,P017,Fan Belt FB-30,Belts,656
+2023-12,P018,Wheel Rim WR-24,Undercarriage,572
+2023-12,P019,Swing Motor SWM-350,Hydraulic,964
+2023-12,P020,Pivot Pin PP-12,Pins & Bushes,522
+2023-12,P021,Boom Cylinder BC-400,Hydraulic,540
+2023-12,P022,Control Valve CV-75,Hydraulic,594
+2023-12,P023,Idler Wheel IW-55,Undercarriage,748
+2023-12,P024,Track Roller TR-60,Undercarriage,710
+2023-12,P025,Cabin Glass CG-20,Cabin,568
+2023-12,P026,Grease Cartridge GC-5,Lubricants,596
+2023-12,P027,O-Ring Set OR-50,Seals,584
+2023-12,P028,Light Assembly LA-18,Electrical,564
+2023-12,P029,Pressure Sensor PS-90,Sensors,741
+2023-12,P030,Fuel Pump FP-350,Engine,418
+2024-01,P001,Hydraulic Pump HP-300,Hydraulic,600
+2024-01,P002,Engine Oil Filter OF-90,Filters,729
+2024-01,P003,Air Filter AF-120,Filters,732
+2024-01,P004,Track Chain TC-45,Undercarriage,706
+2024-01,P005,Fuel Injector FI-220,Engine,651
+2024-01,P006,Alternator ALT-500,Electrical,812
+2024-01,P007,Hydraulic Hose HH-60,Hydraulic,700
+2024-01,P008,Bucket Tooth BT-10,Attachments,583
+2024-01,P009,Starter Motor SM-700,Electrical,538
+2024-01,P010,Turbocharger TB-900,Engine,622
+2024-01,P011,Hydraulic Cylinder HC-200,Hydraulic,686
+2024-01,P012,Brake Pad BP-40,Brakes,685
+2024-01,P013,Seal Kit SK-15,Seals,609
+2024-01,P014,Transmission Assembly TA-800,Transmission,648
+2024-01,P015,Engine Block EB-600,Engine,700
+2024-01,P016,Radiator RD-250,Cooling,594
+2024-01,P017,Fan Belt FB-30,Belts,670
+2024-01,P018,Wheel Rim WR-24,Undercarriage,779
+2024-01,P019,Swing Motor SWM-350,Hydraulic,569
+2024-01,P020,Pivot Pin PP-12,Pins & Bushes,605
+2024-01,P021,Boom Cylinder BC-400,Hydraulic,708
+2024-01,P022,Control Valve CV-75,Hydraulic,732
+2024-01,P023,Idler Wheel IW-55,Undercarriage,587
+2024-01,P024,Track Roller TR-60,Undercarriage,567
+2024-01,P025,Cabin Glass CG-20,Cabin,556
+2024-01,P026,Grease Cartridge GC-5,Lubricants,628
+2024-01,P027,O-Ring Set OR-50,Seals,662
+2024-01,P028,Light Assembly LA-18,Electrical,632
+2024-01,P029,Pressure Sensor PS-90,Sensors,754
+2024-01,P030,Fuel Pump FP-350,Engine,877
+2024-02,P001,Hydraulic Pump HP-300,Hydraulic,636
+2024-02,P002,Engine Oil Filter OF-90,Filters,691
+2024-02,P003,Air Filter AF-120,Filters,696
+2024-02,P004,Track Chain TC-45,Undercarriage,629
+2024-02,P005,Fuel Injector FI-220,Engine,638
+2024-02,P006,Alternator ALT-500,Electrical,726
+2024-02,P007,Hydraulic Hose HH-60,Hydraulic,603
+2024-02,P008,Bucket Tooth BT-10,Attachments,685
+2024-02,P009,Starter Motor SM-700,Electrical,554
+2024-02,P010,Turbocharger TB-900,Engine,597
+2024-02,P011,Hydraulic Cylinder HC-200,Hydraulic,639
+2024-02,P012,Brake Pad BP-40,Brakes,521
+2024-02,P013,Seal Kit SK-15,Seals,632
+2024-02,P014,Transmission Assembly TA-800,Transmission,657
+2024-02,P015,Engine Block EB-600,Engine,536
+2024-02,P016,Radiator RD-250,Cooling,551
+2024-02,P017,Fan Belt FB-30,Belts,624
+2024-02,P018,Wheel Rim WR-24,Undercarriage,479
+2024-02,P019,Swing Motor SWM-350,Hydraulic,607
+2024-02,P020,Pivot Pin PP-12,Pins & Bushes,561
+2024-02,P021,Boom Cylinder BC-400,Hydraulic,734
+2024-02,P022,Control Valve CV-75,Hydraulic,613
+2024-02,P023,Idler Wheel IW-55,Undercarriage,677
+2024-02,P024,Track Roller TR-60,Undercarriage,539
+2024-02,P025,Cabin Glass CG-20,Cabin,655
+2024-02,P026,Grease Cartridge GC-5,Lubricants,623
+2024-02,P027,O-Ring Set OR-50,Seals,653
+2024-02,P028,Light Assembly LA-18,Electrical,476
+2024-02,P029,Pressure Sensor PS-90,Sensors,638
+2024-02,P030,Fuel Pump FP-350,Engine,573
+2024-03,P001,Hydraulic Pump HP-300,Hydraulic,489
+2024-03,P002,Engine Oil Filter OF-90,Filters,675
+2024-03,P003,Air Filter AF-120,Filters,682
+2024-03,P004,Track Chain TC-45,Undercarriage,478
+2024-03,P005,Fuel Injector FI-220,Engine,488
+2024-03,P006,Alternator ALT-500,Electrical,652
+2024-03,P007,Hydraulic Hose HH-60,Hydraulic,556
+2024-03,P008,Bucket Tooth BT-10,Attachments,655
+2024-03,P009,Starter Motor SM-700,Electrical,639
+2024-03,P010,Turbocharger TB-900,Engine,570
+2024-03,P011,Hydraulic Cylinder HC-200,Hydraulic,719
+2024-03,P012,Brake Pad BP-40,Brakes,544
+2024-03,P013,Seal Kit SK-15,Seals,626
+2024-03,P014,Transmission Assembly TA-800,Transmission,606
+2024-03,P015,Engine Block EB-600,Engine,498
+2024-03,P016,Radiator RD-250,Cooling,809
+2024-03,P017,Fan Belt FB-30,Belts,630
+2024-03,P018,Wheel Rim WR-24,Undercarriage,576
+2024-03,P019,Swing Motor SWM-350,Hydraulic,580
+2024-03,P020,Pivot Pin PP-12,Pins & Bushes,600
+2024-03,P021,Boom Cylinder BC-400,Hydraulic,800
+2024-03,P022,Control Valve CV-75,Hydraulic,655
+2024-03,P023,Idler Wheel IW-55,Undercarriage,594
+2024-03,P024,Track Roller TR-60,Undercarriage,871
+2024-03,P025,Cabin Glass CG-20,Cabin,728
+2024-03,P026,Grease Cartridge GC-5,Lubricants,687
+2024-03,P027,O-Ring Set OR-50,Seals,657
+2024-03,P028,Light Assembly LA-18,Electrical,663
+2024-03,P029,Pressure Sensor PS-90,Sensors,833
+2024-03,P030,Fuel Pump FP-350,Engine,591
+2024-04,P001,Hydraulic Pump HP-300,Hydraulic,544
+2024-04,P002,Engine Oil Filter OF-90,Filters,761
+2024-04,P003,Air Filter AF-120,Filters,466
+2024-04,P004,Track Chain TC-45,Undercarriage,405
+2024-04,P005,Fuel Injector FI-220,Engine,516
+2024-04,P006,Alternator ALT-500,Electrical,688
+2024-04,P007,Hydraulic Hose HH-60,Hydraulic,499
+2024-04,P008,Bucket Tooth BT-10,Attachments,640
+2024-04,P009,Starter Motor SM-700,Electrical,527
+2024-04,P010,Turbocharger TB-900,Engine,564
+2024-04,P011,Hydraulic Cylinder HC-200,Hydraulic,587
+2024-04,P012,Brake Pad BP-40,Brakes,598
+2024-04,P013,Seal Kit SK-15,Seals,580
+2024-04,P014,Transmission Assembly TA-800,Transmission,815
+2024-04,P015,Engine Block EB-600,Engine,503
+2024-04,P016,Radiator RD-250,Cooling,429
+2024-04,P017,Fan Belt FB-30,Belts,539
+2024-04,P018,Wheel Rim WR-24,Undercarriage,483
+2024-04,P019,Swing Motor SWM-350,Hydraulic,488
+2024-04,P020,Pivot Pin PP-12,Pins & Bushes,534
+2024-04,P021,Boom Cylinder BC-400,Hydraulic,585
+2024-04,P022,Control Valve CV-75,Hydraulic,518
+2024-04,P023,Idler Wheel IW-55,Undercarriage,560
+2024-04,P024,Track Roller TR-60,Undercarriage,759
+2024-04,P025,Cabin Glass CG-20,Cabin,529
+2024-04,P026,Grease Cartridge GC-5,Lubricants,548
+2024-04,P027,O-Ring Set OR-50,Seals,599
+2024-04,P028,Light Assembly LA-18,Electrical,523
+2024-04,P029,Pressure Sensor PS-90,Sensors,675
+2024-04,P030,Fuel Pump FP-350,Engine,521
+2024-05,P001,Hydraulic Pump HP-300,Hydraulic,592
+2024-05,P002,Engine Oil Filter OF-90,Filters,562
+2024-05,P003,Air Filter AF-120,Filters,582
+2024-05,P004,Track Chain TC-45,Undercarriage,589
+2024-05,P005,Fuel Injector FI-220,Engine,579
+2024-05,P006,Alternator ALT-500,Electrical,565
+2024-05,P007,Hydraulic Hose HH-60,Hydraulic,677
+2024-05,P008,Bucket Tooth BT-10,Attachments,673
+2024-05,P009,Starter Motor SM-700,Electrical,606
+2024-05,P010,Turbocharger TB-900,Engine,680
+2024-05,P011,Hydraulic Cylinder HC-200,Hydraulic,625
+2024-05,P012,Brake Pad BP-40,Brakes,603
+2024-05,P013,Seal Kit SK-15,Seals,577
+2024-05,P014,Transmission Assembly TA-800,Transmission,586
+2024-05,P015,Engine Block EB-600,Engine,629
+2024-05,P016,Radiator RD-250,Cooling,502
+2024-05,P017,Fan Belt FB-30,Belts,664
+2024-05,P018,Wheel Rim WR-24,Undercarriage,544
+2024-05,P019,Swing Motor SWM-350,Hydraulic,492
+2024-05,P020,Pivot Pin PP-12,Pins & Bushes,629
+2024-05,P021,Boom Cylinder BC-400,Hydraulic,403
+2024-05,P022,Control Valve CV-75,Hydraulic,625
+2024-05,P023,Idler Wheel IW-55,Undercarriage,586
+2024-05,P024,Track Roller TR-60,Undercarriage,674
+2024-05,P025,Cabin Glass CG-20,Cabin,528
+2024-05,P026,Grease Cartridge GC-5,Lubricants,366
+2024-05,P027,O-Ring Set OR-50,Seals,791
+2024-05,P028,Light Assembly LA-18,Electrical,532
+2024-05,P029,Pressure Sensor PS-90,Sensors,571
+2024-05,P030,Fuel Pump FP-350,Engine,682
+2024-06,P001,Hydraulic Pump HP-300,Hydraulic,682
+2024-06,P002,Engine Oil Filter OF-90,Filters,679
+2024-06,P003,Air Filter AF-120,Filters,575
+2024-06,P004,Track Chain TC-45,Undercarriage,606
+2024-06,P005,Fuel Injector FI-220,Engine,686
+2024-06,P006,Alternator ALT-500,Electrical,553
+2024-06,P007,Hydraulic Hose HH-60,Hydraulic,599
+2024-06,P008,Bucket Tooth BT-10,Attachments,768
+2024-06,P009,Starter Motor SM-700,Electrical,655
+2024-06,P010,Turbocharger TB-900,Engine,684
+2024-06,P011,Hydraulic Cylinder HC-200,Hydraulic,655
+2024-06,P012,Brake Pad BP-40,Brakes,714
+2024-06,P013,Seal Kit SK-15,Seals,598
+2024-06,P014,Transmission Assembly TA-800,Transmission,463
+2024-06,P015,Engine Block EB-600,Engine,652
+2024-06,P016,Radiator RD-250,Cooling,722
+2024-06,P017,Fan Belt FB-30,Belts,668
+2024-06,P018,Wheel Rim WR-24,Undercarriage,608
+2024-06,P019,Swing Motor SWM-350,Hydraulic,517
+2024-06,P020,Pivot Pin PP-12,Pins & Bushes,548
+2024-06,P021,Boom Cylinder BC-400,Hydraulic,890
+2024-06,P022,Control Valve CV-75,Hydraulic,519
+2024-06,P023,Idler Wheel IW-55,Undercarriage,691
+2024-06,P024,Track Roller TR-60,Undercarriage,596
+2024-06,P025,Cabin Glass CG-20,Cabin,697
+2024-06,P026,Grease Cartridge GC-5,Lubricants,625
+2024-06,P027,O-Ring Set OR-50,Seals,549
+2024-06,P028,Light Assembly LA-18,Electrical,697
+2024-06,P029,Pressure Sensor PS-90,Sensors,732
+2024-06,P030,Fuel Pump FP-350,Engine,641
+2024-07,P001,Hydraulic Pump HP-300,Hydraulic,534
+2024-07,P002,Engine Oil Filter OF-90,Filters,631
+2024-07,P003,Air Filter AF-120,Filters,567
+2024-07,P004,Track Chain TC-45,Undercarriage,832
+2024-07,P005,Fuel Injector FI-220,Engine,439
+2024-07,P006,Alternator ALT-500,Electrical,678
+2024-07,P007,Hydraulic Hose HH-60,Hydraulic,666
+2024-07,P008,Bucket Tooth BT-10,Attachments,609
+2024-07,P009,Starter Motor SM-700,Electrical,573
+2024-07,P010,Turbocharger TB-900,Engine,702
+2024-07,P011,Hydraulic Cylinder HC-200,Hydraulic,617
+2024-07,P012,Brake Pad BP-40,Brakes,606
+2024-07,P013,Seal Kit SK-15,Seals,632
+2024-07,P014,Transmission Assembly TA-800,Transmission,642
+2024-07,P015,Engine Block EB-600,Engine,486
+2024-07,P016,Radiator RD-250,Cooling,747
+2024-07,P017,Fan Belt FB-30,Belts,569
+2024-07,P018,Wheel Rim WR-24,Undercarriage,588
+2024-07,P019,Swing Motor SWM-350,Hydraulic,640
+2024-07,P020,Pivot Pin PP-12,Pins & Bushes,668
+2024-07,P021,Boom Cylinder BC-400,Hydraulic,642
+2024-07,P022,Control Valve CV-75,Hydraulic,419
+2024-07,P023,Idler Wheel IW-55,Undercarriage,549
+2024-07,P024,Track Roller TR-60,Undercarriage,690
+2024-07,P025,Cabin Glass CG-20,Cabin,585
+2024-07,P026,Grease Cartridge GC-5,Lubricants,588
+2024-07,P027,O-Ring Set OR-50,Seals,572
+2024-07,P028,Light Assembly LA-18,Electrical,725
+2024-07,P029,Pressure Sensor PS-90,Sensors,666
+2024-07,P030,Fuel Pump FP-350,Engine,732
+2024-08,P001,Hydraulic Pump HP-300,Hydraulic,612
+2024-08,P002,Engine Oil Filter OF-90,Filters,778
+2024-08,P003,Air Filter AF-120,Filters,469
+2024-08,P004,Track Chain TC-45,Undercarriage,526
+2024-08,P005,Fuel Injector FI-220,Engine,693
+2024-08,P006,Alternator ALT-500,Electrical,748
+2024-08,P007,Hydraulic Hose HH-60,Hydraulic,733
+2024-08,P008,Bucket Tooth BT-10,Attachments,714
+2024-08,P009,Starter Motor SM-700,Electrical,632
+2024-08,P010,Turbocharger TB-900,Engine,646
+2024-08,P011,Hydraulic Cylinder HC-200,Hydraulic,543
+2024-08,P012,Brake Pad BP-40,Brakes,650
+2024-08,P013,Seal Kit SK-15,Seals,587
+2024-08,P014,Transmission Assembly TA-800,Transmission,585
+2024-08,P015,Engine Block EB-600,Engine,538
+2024-08,P016,Radiator RD-250,Cooling,883
+2024-08,P017,Fan Belt FB-30,Belts,801
+2024-08,P018,Wheel Rim WR-24,Undercarriage,580
+2024-08,P019,Swing Motor SWM-350,Hydraulic,566
+2024-08,P020,Pivot Pin PP-12,Pins & Bushes,739
+2024-08,P021,Boom Cylinder BC-400,Hydraulic,632
+2024-08,P022,Control Valve CV-75,Hydraulic,749
+2024-08,P023,Idler Wheel IW-55,Undercarriage,597
+2024-08,P024,Track Roller TR-60,Undercarriage,688
+2024-08,P025,Cabin Glass CG-20,Cabin,490
+2024-08,P026,Grease Cartridge GC-5,Lubricants,669
+2024-08,P027,O-Ring Set OR-50,Seals,665
+2024-08,P028,Light Assembly LA-18,Electrical,485
+2024-08,P029,Pressure Sensor PS-90,Sensors,648
+2024-08,P030,Fuel Pump FP-350,Engine,840
+2024-09,P001,Hydraulic Pump HP-300,Hydraulic,733
+2024-09,P002,Engine Oil Filter OF-90,Filters,584
+2024-09,P003,Air Filter AF-120,Filters,805
+2024-09,P004,Track Chain TC-45,Undercarriage,704
+2024-09,P005,Fuel Injector FI-220,Engine,613
+2024-09,P006,Alternator ALT-500,Electrical,701
+2024-09,P007,Hydraulic Hose HH-60,Hydraulic,636
+2024-09,P008,Bucket Tooth BT-10,Attachments,495
+2024-09,P009,Starter Motor SM-700,Electrical,750
+2024-09,P010,Turbocharger TB-900,Engine,572
+2024-09,P011,Hydraulic Cylinder HC-200,Hydraulic,792
+2024-09,P012,Brake Pad BP-40,Brakes,447
+2024-09,P013,Seal Kit SK-15,Seals,602
+2024-09,P014,Transmission Assembly TA-800,Transmission,714
+2024-09,P015,Engine Block EB-600,Engine,696
+2024-09,P016,Radiator RD-250,Cooling,688
+2024-09,P017,Fan Belt FB-30,Belts,692
+2024-09,P018,Wheel Rim WR-24,Undercarriage,778
+2024-09,P019,Swing Motor SWM-350,Hydraulic,730
+2024-09,P020,Pivot Pin PP-12,Pins & Bushes,655
+2024-09,P021,Boom Cylinder BC-400,Hydraulic,537
+2024-09,P022,Control Valve CV-75,Hydraulic,587
+2024-09,P023,Idler Wheel IW-55,Undercarriage,729
+2024-09,P024,Track Roller TR-60,Undercarriage,581
+2024-09,P025,Cabin Glass CG-20,Cabin,563
+2024-09,P026,Grease Cartridge GC-5,Lubricants,636
+2024-09,P027,O-Ring Set OR-50,Seals,750
+2024-09,P028,Light Assembly LA-18,Electrical,601
+2024-09,P029,Pressure Sensor PS-90,Sensors,777
+2024-09,P030,Fuel Pump FP-350,Engine,652
+2024-10,P001,Hydraulic Pump HP-300,Hydraulic,712
+2024-10,P002,Engine Oil Filter OF-90,Filters,607
+2024-10,P003,Air Filter AF-120,Filters,701
+2024-10,P004,Track Chain TC-45,Undercarriage,743
+2024-10,P005,Fuel Injector FI-220,Engine,445
+2024-10,P006,Alternator ALT-500,Electrical,783
+2024-10,P007,Hydraulic Hose HH-60,Hydraulic,689
+2024-10,P008,Bucket Tooth BT-10,Attachments,536
+2024-10,P009,Starter Motor SM-700,Electrical,595
+2024-10,P010,Turbocharger TB-900,Engine,756
+2024-10,P011,Hydraulic Cylinder HC-200,Hydraulic,666
+2024-10,P012,Brake Pad BP-40,Brakes,618
+2024-10,P013,Seal Kit SK-15,Seals,563
+2024-10,P014,Transmission Assembly TA-800,Transmission,713
+2024-10,P015,Engine Block EB-600,Engine,797
+2024-10,P016,Radiator RD-250,Cooling,690
+2024-10,P017,Fan Belt FB-30,Belts,777
+2024-10,P018,Wheel Rim WR-24,Undercarriage,588
+2024-10,P019,Swing Motor SWM-350,Hydraulic,649
+2024-10,P020,Pivot Pin PP-12,Pins & Bushes,571
+2024-10,P021,Boom Cylinder BC-400,Hydraulic,607
+2024-10,P022,Control Valve CV-75,Hydraulic,711
+2024-10,P023,Idler Wheel IW-55,Undercarriage,502
+2024-10,P024,Track Roller TR-60,Undercarriage,562
+2024-10,P025,Cabin Glass CG-20,Cabin,677
+2024-10,P026,Grease Cartridge GC-5,Lubricants,649
+2024-10,P027,O-Ring Set OR-50,Seals,661
+2024-10,P028,Light Assembly LA-18,Electrical,566
+2024-10,P029,Pressure Sensor PS-90,Sensors,668
+2024-10,P030,Fuel Pump FP-350,Engine,723
+2024-11,P001,Hydraulic Pump HP-300,Hydraulic,611
+2024-11,P002,Engine Oil Filter OF-90,Filters,715
+2024-11,P003,Air Filter AF-120,Filters,653
+2024-11,P004,Track Chain TC-45,Undercarriage,671
+2024-11,P005,Fuel Injector FI-220,Engine,598
+2024-11,P006,Alternator ALT-500,Electrical,541
+2024-11,P007,Hydraulic Hose HH-60,Hydraulic,518
+2024-11,P008,Bucket Tooth BT-10,Attachments,666
+2024-11,P009,Starter Motor SM-700,Electrical,518
+2024-11,P010,Turbocharger TB-900,Engine,516
+2024-11,P011,Hydraulic Cylinder HC-200,Hydraulic,797
+2024-11,P012,Brake Pad BP-40,Brakes,513
+2024-11,P013,Seal Kit SK-15,Seals,630
+2024-11,P014,Transmission Assembly TA-800,Transmission,692
+2024-11,P015,Engine Block EB-600,Engine,427
+2024-11,P016,Radiator RD-250,Cooling,671
+2024-11,P017,Fan Belt FB-30,Belts,569
+2024-11,P018,Wheel Rim WR-24,Undercarriage,585
+2024-11,P019,Swing Motor SWM-350,Hydraulic,552
+2024-11,P020,Pivot Pin PP-12,Pins & Bushes,649
+2024-11,P021,Boom Cylinder BC-400,Hydraulic,702
+2024-11,P022,Control Valve CV-75,Hydraulic,735
+2024-11,P023,Idler Wheel IW-55,Undercarriage,620
+2024-11,P024,Track Roller TR-60,Undercarriage,533
+2024-11,P025,Cabin Glass CG-20,Cabin,654
+2024-11,P026,Grease Cartridge GC-5,Lubricants,548
+2024-11,P027,O-Ring Set OR-50,Seals,636
+2024-11,P028,Light Assembly LA-18,Electrical,580
+2024-11,P029,Pressure Sensor PS-90,Sensors,568
+2024-11,P030,Fuel Pump FP-350,Engine,794
+2024-12,P001,Hydraulic Pump HP-300,Hydraulic,718
+2024-12,P002,Engine Oil Filter OF-90,Filters,710
+2024-12,P003,Air Filter AF-120,Filters,559
+2024-12,P004,Track Chain TC-45,Undercarriage,761
+2024-12,P005,Fuel Injector FI-220,Engine,634
+2024-12,P006,Alternator ALT-500,Electrical,527
+2024-12,P007,Hydraulic Hose HH-60,Hydraulic,597
+2024-12,P008,Bucket Tooth BT-10,Attachments,754
+2024-12,P009,Starter Motor SM-700,Electrical,504
+2024-12,P010,Turbocharger TB-900,Engine,413
+2024-12,P011,Hydraulic Cylinder HC-200,Hydraulic,630
+2024-12,P012,Brake Pad BP-40,Brakes,571
+2024-12,P013,Seal Kit SK-15,Seals,698
+2024-12,P014,Transmission Assembly TA-800,Transmission,588
+2024-12,P015,Engine Block EB-600,Engine,633
+2024-12,P016,Radiator RD-250,Cooling,465
+2024-12,P017,Fan Belt FB-30,Belts,461
+2024-12,P018,Wheel Rim WR-24,Undercarriage,485
+2024-12,P019,Swing Motor SWM-350,Hydraulic,642
+2024-12,P020,Pivot Pin PP-12,Pins & Bushes,511
+2024-12,P021,Boom Cylinder BC-400,Hydraulic,545
+2024-12,P022,Control Valve CV-75,Hydraulic,453
+2024-12,P023,Idler Wheel IW-55,Undercarriage,450
+2024-12,P024,Track Roller TR-60,Undercarriage,486
+2024-12,P025,Cabin Glass CG-20,Cabin,615
+2024-12,P026,Grease Cartridge GC-5,Lubricants,677
+2024-12,P027,O-Ring Set OR-50,Seals,646
+2024-12,P028,Light Assembly LA-18,Electrical,672
+2024-12,P029,Pressure Sensor PS-90,Sensors,628
+2024-12,P030,Fuel Pump FP-350,Engine,507

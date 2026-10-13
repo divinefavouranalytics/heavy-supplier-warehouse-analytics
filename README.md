@@ -52,3 +52,12 @@ This is my Phase 1 (Weeks 1-3) work for the Heavy Supplier, Inventory and Wareho
 - Documentation: Complete (Weeks 1-3)
 - SQL phase: Not started
 - Power BI preparation: Not started
+
+
+## Week 4 Product Analytics
+
+- Completed the product performance review for revenue, units sold, profit, and category ranking.
+- Identified fast-moving products using a top-quartile rule based on units sold.
+- Reviewed slow-moving stock by units sold and current stock value tied up.
+- Confirmed no true dead-stock items under a 365-day OUT-movement rule, which suggests overstocking is a more important issue than zero movement.
+- Saved the analysis notebook, charts, and CSV outputs in the project folders.
