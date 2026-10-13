@@ -10,10 +10,13 @@ This is my Phase 1 (Weeks 1-3) work for the Heavy Supplier, Inventory and Wareho
 
 - `data/raw/`: Original CSV files. Keep these files untouched.
 - `data/cleaned/`: Cleaned and validated datasets.
-- `notebooks/`: Week 1 profiling and cleaning notebooks.
-- `docs/`: Data dictionary, profiling report, and supplied field documentation.
+- `data/processed/`: Merged analytical tables for sales and purchases.
+- `notebooks/`: Weekly analysis notebooks grouped by week folder.
+  - `WEEK 1/`, `WEEK 2/`, `WEEK 3/`, `WEEK 4/` and onward.
+- `docs/`: Data dictionary, profiling report, and weekly summaries.
 - `sql/`: SQL scripts for a later phase.
-- `outputs/`: Charts, dashboards, exported tables, and Power BI-ready files.
+- `outputs/`: Charts and exported tables grouped by week folder.
+  - `WEEK 4/` contains the product analytics outputs.
 
 ## Week 1 Work Completed
 
@@ -49,15 +52,16 @@ This is my Phase 1 (Weeks 1-3) work for the Heavy Supplier, Inventory and Wareho
 - Week 2 feature engineering: Complete
 - Week 3 validation: Complete
 - Week 3 first KPIs: Complete
-- Documentation: Complete (Weeks 1-3)
+- Week 4 product analytics: Complete
+- Week 4 summary and outputs: Complete
+- Documentation: Complete (Weeks 1-4)
 - SQL phase: Not started
 - Power BI preparation: Not started
-
 
 ## Week 4 Product Analytics
 
 - Completed the product performance review for revenue, units sold, profit, and category ranking.
 - Identified fast-moving products using a top-quartile rule based on units sold.
 - Reviewed slow-moving stock by units sold and current stock value tied up.
-- Confirmed no true dead-stock items under a 365-day OUT-movement rule, which suggests overstocking is a more important issue than zero movement.
-- Saved the analysis notebook, charts, and CSV outputs in the project folders.
+- Confirmed no true dead-stock items under a 365-day OUT-movement rule, which suggests overstocking is a bigger issue than zero movement.
+- Saved the notebook and outputs in the organized Week 4 folders.

@@ -10,8 +10,10 @@ import numpy as np
 import nbformat as nbf
 
 root = Path(r'c:\Users\tayod\OneDrive\Desktop\heavy-supplier-warehouse-analytics')
-outputs_dir = root / 'outputs'
-outputs_dir.mkdir(exist_ok=True)
+notebook_dir = root / 'notebooks' / 'WEEK 4'
+notebook_dir.mkdir(exist_ok=True, parents=True)
+outputs_dir = root / 'outputs' / 'WEEK 4'
+outputs_dir.mkdir(exist_ok=True, parents=True)
 
 sales = pd.read_csv(root / 'data' / 'processed' / 'sales_table.csv', parse_dates=['order_date', 'delivery_date', 'invoice_date', 'due_date', 'last_payment_date'])
 products = pd.read_csv(root / 'data' / 'cleaned' / 'products.csv', parse_dates=['last_purchase_date'])
@@ -237,7 +239,7 @@ nb.cells = [
     ''')),
     nbf.v4.new_markdown_cell('### Final takeaways\n\nThis Week 4 view tells the story of which products are truly making money, which products are moving quickly, and which items are tying up stock value without matching the same sales performance. The early signal from the project is clear: the stock value is much larger than revenue, and the product analysis is the first place where that overstock pattern becomes visible.'),
 ]
-nbf.write(nb, root / 'notebooks' / 'week4_product_analytics.ipynb')
+nbf.write(nb, notebook_dir / 'week4_product_analytics.ipynb')
 
 # README update
 readme_path = root / 'README.md'
