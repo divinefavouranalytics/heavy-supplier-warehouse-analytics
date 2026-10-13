@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import nbformat as nbf
 
-root = Path(r'c:\Users\tayod\OneDrive\Desktop\heavy-supplier-warehouse-analytics')
+root = Path(__file__).resolve().parent
 notebook_dir = root / 'notebooks' / 'WEEK 5'
 notebook_dir.mkdir(exist_ok=True, parents=True)
 outputs_dir = root / 'outputs' / 'WEEK 5'
@@ -162,7 +162,11 @@ nb.cells = [
         import matplotlib.pyplot as plt
         from pathlib import Path
 
-        root = Path(r'c:/Users/tayod/OneDrive/Desktop/heavy-supplier-warehouse-analytics')
+        root = Path.cwd()
+        while not (root / 'data').is_dir() and root != root.parent:
+            root = root.parent
+        if not (root / 'data').is_dir():
+            raise FileNotFoundError('Could not locate the project data directory from the notebook working directory.')
         sales = pd.read_csv(root / 'data' / 'processed' / 'sales_table.csv', parse_dates=['order_date', 'delivery_date', 'invoice_date', 'due_date', 'last_payment_date'])
         inventory = pd.read_csv(root / 'data' / 'cleaned' / 'inventory_master.csv')
         products = pd.read_csv(root / 'data' / 'cleaned' / 'products.csv', parse_dates=['last_purchase_date'])
