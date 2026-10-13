@@ -65,3 +65,11 @@ This is my Phase 1 (Weeks 1-3) work for the Heavy Supplier, Inventory and Wareho
 - Reviewed slow-moving stock by units sold and current stock value tied up.
 - Confirmed no true dead-stock items under a 365-day OUT-movement rule, which suggests overstocking is a bigger issue than zero movement.
 - Saved the notebook and outputs in the organized Week 4 folders.
+
+## Week 5 Inventory Analytics
+
+- Completed turnover analysis by product-branch using units sold divided by average stock.
+- Classified stock health using `current_stock` against `reorder_level`, `safety_stock`, and `max_stock`.
+- Assessed aging using the last movement date and quantity flow instead of `running_balance`.
+- Applied an ABC / Pareto split to product revenue and identified stock risk by product-branch.
+- Documented the stock value versus revenue signal and the importance of using the correct revenue definition.

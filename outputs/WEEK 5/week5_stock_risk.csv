@@ -1,0 +1,181 @@
+product_id,product_name,category,branch_id,current_stock,safety_stock,max_stock,risk_type,risk_value
+P015,Engine Block EB-600,Engine,CHN001,113851,57,370,Overstocked,10872770500
+P015,Engine Block EB-600,Engine,HYD001,110035,43,226,Overstocked,10508342500
+P015,Engine Block EB-600,Engine,PUN001,106048,34,210,Overstocked,10127584000
+P015,Engine Block EB-600,Engine,AHM001,105135,24,131,Overstocked,10040392500
+P015,Engine Block EB-600,Engine,DEL001,100967,60,387,Overstocked,9642348500
+P015,Engine Block EB-600,Engine,KOL001,96547,81,508,Overstocked,9220238500
+P014,Transmission Assembly TA-800,Transmission,CHN001,114302,40,303,Overstocked,7829687000
+P014,Transmission Assembly TA-800,Transmission,PUN001,113386,20,164,Overstocked,7766941000
+P014,Transmission Assembly TA-800,Transmission,DEL001,111321,44,384,Overstocked,7625488500
+P014,Transmission Assembly TA-800,Transmission,HYD001,111315,50,377,Overstocked,7625077500
+P014,Transmission Assembly TA-800,Transmission,KOL001,105994,60,519,Overstocked,7260589000
+P014,Transmission Assembly TA-800,Transmission,AHM001,105345,27,171,Overstocked,7216132500
+P021,Boom Cylinder BC-400,Hydraulic,DEL001,115902,40,257,Overstocked,4126111200
+P021,Boom Cylinder BC-400,Hydraulic,AHM001,108168,60,554,Overstocked,3850780800
+P021,Boom Cylinder BC-400,Hydraulic,PUN001,105385,32,287,Overstocked,3751706000
+P019,Swing Motor SWM-350,Hydraulic,DEL001,118200,27,208,Overstocked,3687840000
+P021,Boom Cylinder BC-400,Hydraulic,CHN001,100867,40,319,Overstocked,3590865200
+P021,Boom Cylinder BC-400,Hydraulic,KOL001,100829,69,485,Overstocked,3589512400
+P004,Track Chain TC-45,Undercarriage,DEL001,110145,35,267,Overstocked,3579712500
+P004,Track Chain TC-45,Undercarriage,KOL001,110042,33,187,Overstocked,3576365000
+P004,Track Chain TC-45,Undercarriage,HYD001,109943,49,363,Overstocked,3573147500
+P021,Boom Cylinder BC-400,Hydraulic,HYD001,99466,36,263,Overstocked,3540989600
+P019,Swing Motor SWM-350,Hydraulic,PUN001,109388,27,207,Overstocked,3412905600
+P004,Track Chain TC-45,Undercarriage,PUN001,104859,37,265,Overstocked,3407917500
+P004,Track Chain TC-45,Undercarriage,CHN001,103984,41,339,Overstocked,3379480000
+P010,Turbocharger TB-900,Engine,AHM001,115149,27,245,Overstocked,3327806100
+P010,Turbocharger TB-900,Engine,PUN001,114565,45,267,Overstocked,3310928500
+P019,Swing Motor SWM-350,Hydraulic,AHM001,105387,46,378,Overstocked,3288074400
+P010,Turbocharger TB-900,Engine,CHN001,113425,29,191,Overstocked,3277982500
+P004,Track Chain TC-45,Undercarriage,AHM001,99909,77,430,Overstocked,3247042500
+P010,Turbocharger TB-900,Engine,HYD001,110225,46,307,Overstocked,3185502500
+P019,Swing Motor SWM-350,Hydraulic,CHN001,100413,66,566,Overstocked,3132885600
+P019,Swing Motor SWM-350,Hydraulic,HYD001,100008,49,350,Overstocked,3120249600
+P010,Turbocharger TB-900,Engine,DEL001,106895,37,220,Overstocked,3089265500
+P010,Turbocharger TB-900,Engine,KOL001,100989,46,294,Overstocked,2918582100
+P019,Swing Motor SWM-350,Hydraulic,KOL001,88853,22,141,Overstocked,2772213600
+P011,Hydraulic Cylinder HC-200,Hydraulic,DEL001,112300,64,369,Overstocked,2414450000
+P011,Hydraulic Cylinder HC-200,Hydraulic,CHN001,110667,32,233,Overstocked,2379340500
+P011,Hydraulic Cylinder HC-200,Hydraulic,KOL001,109669,68,582,Overstocked,2357883500
+P011,Hydraulic Cylinder HC-200,Hydraulic,PUN001,108691,20,138,Overstocked,2336856500
+P011,Hydraulic Cylinder HC-200,Hydraulic,HYD001,107771,41,244,Overstocked,2317076500
+P001,Hydraulic Pump HP-300,Hydraulic,DEL001,115928,46,340,Overstocked,2196835600
+P011,Hydraulic Cylinder HC-200,Hydraulic,AHM001,101291,50,410,Overstocked,2177756500
+P001,Hydraulic Pump HP-300,Hydraulic,PUN001,109389,43,349,Overstocked,2072921550
+P001,Hydraulic Pump HP-300,Hydraulic,HYD001,108772,65,417,Overstocked,2061229400
+P001,Hydraulic Pump HP-300,Hydraulic,AHM001,106714,53,455,Overstocked,2022230300
+P001,Hydraulic Pump HP-300,Hydraulic,KOL001,103808,58,475,Overstocked,1967161600
+P001,Hydraulic Pump HP-300,Hydraulic,CHN001,99373,44,311,Overstocked,1883118350
+P030,Fuel Pump FP-350,Engine,PUN001,112388,35,283,Overstocked,1843163200
+P030,Fuel Pump FP-350,Engine,CHN001,105447,28,246,Overstocked,1729330800
+P030,Fuel Pump FP-350,Engine,HYD001,104611,40,268,Overstocked,1715620400
+P030,Fuel Pump FP-350,Engine,KOL001,103465,43,365,Overstocked,1696826000
+P030,Fuel Pump FP-350,Engine,AHM001,103248,40,231,Overstocked,1693267200
+P030,Fuel Pump FP-350,Engine,DEL001,103131,53,336,Overstocked,1691348400
+P022,Control Valve CV-75,Hydraulic,HYD001,112997,33,226,Overstocked,1446361600
+P022,Control Valve CV-75,Hydraulic,PUN001,111353,60,487,Overstocked,1425318400
+P022,Control Valve CV-75,Hydraulic,DEL001,110752,41,315,Overstocked,1417625600
+P022,Control Valve CV-75,Hydraulic,CHN001,109061,31,227,Overstocked,1395980800
+P022,Control Valve CV-75,Hydraulic,AHM001,103495,37,254,Overstocked,1324736000
+P009,Starter Motor SM-700,Electrical,CHN001,111456,53,387,Overstocked,1276171200
+P022,Control Valve CV-75,Hydraulic,KOL001,99690,65,513,Overstocked,1276032000
+P009,Starter Motor SM-700,Electrical,PUN001,111320,37,345,Overstocked,1274614000
+P009,Starter Motor SM-700,Electrical,KOL001,110547,25,201,Overstocked,1265763150
+P009,Starter Motor SM-700,Electrical,DEL001,102816,32,261,Overstocked,1177243200
+P009,Starter Motor SM-700,Electrical,HYD001,100071,82,436,Overstocked,1145812950
+P009,Starter Motor SM-700,Electrical,AHM001,95731,44,333,Overstocked,1096119950
+P023,Idler Wheel IW-55,Undercarriage,AHM001,114558,50,434,Overstocked,1053933600
+P023,Idler Wheel IW-55,Undercarriage,DEL001,113718,49,313,Overstocked,1046205600
+P023,Idler Wheel IW-55,Undercarriage,KOL001,111851,30,273,Overstocked,1029029200
+P023,Idler Wheel IW-55,Undercarriage,PUN001,108328,26,198,Overstocked,996617600
+P023,Idler Wheel IW-55,Undercarriage,CHN001,107267,40,231,Overstocked,986856400
+P023,Idler Wheel IW-55,Undercarriage,HYD001,105798,16,134,Overstocked,973341600
+P006,Alternator ALT-500,Electrical,PUN001,111016,43,356,Overstocked,960288400
+P006,Alternator ALT-500,Electrical,CHN001,110681,31,181,Overstocked,957390650
+P006,Alternator ALT-500,Electrical,HYD001,109564,62,472,Overstocked,947728600
+P006,Alternator ALT-500,Electrical,KOL001,109176,28,181,Overstocked,944372400
+P018,Wheel Rim WR-24,Undercarriage,DEL001,114627,74,508,Overstocked,939941400
+P018,Wheel Rim WR-24,Undercarriage,CHN001,113318,74,564,Overstocked,929207600
+P006,Alternator ALT-500,Electrical,AHM001,107359,43,291,Overstocked,928655350
+P018,Wheel Rim WR-24,Undercarriage,HYD001,112953,58,322,Overstocked,926214600
+P018,Wheel Rim WR-24,Undercarriage,PUN001,111530,41,293,Overstocked,914546000
+P016,Radiator RD-250,Cooling,CHN001,112003,45,309,Overstocked,873623400
+P016,Radiator RD-250,Cooling,AHM001,110893,25,164,Overstocked,864965400
+P024,Track Roller TR-60,Undercarriage,DEL001,116412,56,469,Overstocked,861448800
+P006,Alternator ALT-500,Electrical,DEL001,99358,26,234,Overstocked,859446700
+P018,Wheel Rim WR-24,Undercarriage,AHM001,101420,64,438,Overstocked,831644000
+P024,Track Roller TR-60,Undercarriage,KOL001,112198,38,242,Overstocked,830265200
+P016,Radiator RD-250,Cooling,HYD001,106040,24,177,Overstocked,827112000
+P024,Track Roller TR-60,Undercarriage,PUN001,110555,31,232,Overstocked,818107000
+P016,Radiator RD-250,Cooling,DEL001,104189,66,434,Overstocked,812674200
+P016,Radiator RD-250,Cooling,PUN001,103006,47,371,Overstocked,803446800
+P024,Track Roller TR-60,Undercarriage,AHM001,107810,58,425,Overstocked,797794000
+P024,Track Roller TR-60,Undercarriage,CHN001,107215,27,204,Overstocked,793391000
+P018,Wheel Rim WR-24,Undercarriage,KOL001,96607,42,284,Overstocked,792177400
+P016,Radiator RD-250,Cooling,KOL001,97829,32,277,Overstocked,763066200
+P024,Track Roller TR-60,Undercarriage,HYD001,101998,66,415,Overstocked,754785200
+P005,Fuel Injector FI-220,Engine,CHN001,114267,40,336,Overstocked,725595450
+P005,Fuel Injector FI-220,Engine,HYD001,112865,51,341,Overstocked,716692750
+P005,Fuel Injector FI-220,Engine,DEL001,110862,63,463,Overstocked,703973700
+P005,Fuel Injector FI-220,Engine,PUN001,108488,76,436,Overstocked,688898800
+P005,Fuel Injector FI-220,Engine,AHM001,108136,29,175,Overstocked,686663600
+P005,Fuel Injector FI-220,Engine,KOL001,104202,43,357,Overstocked,661682700
+P025,Cabin Glass CG-20,Cabin,HYD001,113613,21,133,Overstocked,636232800
+P025,Cabin Glass CG-20,Cabin,KOL001,110579,84,499,Overstocked,619242400
+P025,Cabin Glass CG-20,Cabin,PUN001,110083,45,300,Overstocked,616464800
+P025,Cabin Glass CG-20,Cabin,CHN001,110058,85,564,Overstocked,616324800
+P025,Cabin Glass CG-20,Cabin,DEL001,109936,49,310,Overstocked,615641600
+P025,Cabin Glass CG-20,Cabin,AHM001,97512,44,328,Overstocked,546067200
+P029,Pressure Sensor PS-90,Sensors,HYD001,112739,55,324,Overstocked,310032250
+P029,Pressure Sensor PS-90,Sensors,PUN001,109429,28,225,Overstocked,300929750
+P029,Pressure Sensor PS-90,Sensors,DEL001,108622,27,174,Overstocked,298710500
+P029,Pressure Sensor PS-90,Sensors,KOL001,105010,40,299,Overstocked,288777500
+P029,Pressure Sensor PS-90,Sensors,CHN001,101572,27,173,Overstocked,279323000
+P029,Pressure Sensor PS-90,Sensors,AHM001,97606,40,267,Overstocked,268416500
+P012,Brake Pad BP-40,Brakes,DEL001,119923,67,489,Overstocked,215861400
+P012,Brake Pad BP-40,Brakes,PUN001,112603,52,308,Overstocked,202685400
+P012,Brake Pad BP-40,Brakes,KOL001,109625,51,368,Overstocked,197325000
+P012,Brake Pad BP-40,Brakes,CHN001,107886,32,274,Overstocked,194194800
+P012,Brake Pad BP-40,Brakes,AHM001,106861,24,156,Overstocked,192349800
+P012,Brake Pad BP-40,Brakes,HYD001,106209,28,241,Overstocked,191176200
+P028,Light Assembly LA-18,Electrical,DEL001,106744,58,353,Overstocked,154778800
+P028,Light Assembly LA-18,Electrical,PUN001,105401,56,522,Overstocked,152831450
+P028,Light Assembly LA-18,Electrical,KOL001,104851,75,437,Overstocked,152033950
+P028,Light Assembly LA-18,Electrical,CHN001,103464,29,198,Overstocked,150022800
+P028,Light Assembly LA-18,Electrical,HYD001,102248,37,199,Overstocked,148259600
+P028,Light Assembly LA-18,Electrical,AHM001,101538,57,368,Overstocked,147230100
+P007,Hydraulic Hose HH-60,Hydraulic,DEL001,119439,59,383,Overstocked,117050220
+P007,Hydraulic Hose HH-60,Hydraulic,HYD001,112543,61,548,Overstocked,110292140
+P007,Hydraulic Hose HH-60,Hydraulic,PUN001,110464,58,459,Overstocked,108254720
+P007,Hydraulic Hose HH-60,Hydraulic,CHN001,108692,46,434,Overstocked,106518160
+P013,Seal Kit SK-15,Seals,HYD001,111295,52,412,Overstocked,105730250
+P007,Hydraulic Hose HH-60,Hydraulic,AHM001,106222,38,267,Overstocked,104097560
+P013,Seal Kit SK-15,Seals,DEL001,108520,27,249,Overstocked,103094000
+P013,Seal Kit SK-15,Seals,CHN001,106476,45,307,Overstocked,101152200
+P013,Seal Kit SK-15,Seals,KOL001,105381,26,233,Overstocked,100111950
+P013,Seal Kit SK-15,Seals,PUN001,104221,16,133,Overstocked,99009950
+P007,Hydraulic Hose HH-60,Hydraulic,KOL001,99463,62,438,Overstocked,97473740
+P003,Air Filter AF-120,Filters,PUN001,118139,44,359,Overstocked,96873980
+P013,Seal Kit SK-15,Seals,AHM001,98687,22,150,Overstocked,93752650
+P003,Air Filter AF-120,Filters,KOL001,110093,52,386,Overstocked,90276260
+P003,Air Filter AF-120,Filters,CHN001,107840,39,365,Overstocked,88428800
+P003,Air Filter AF-120,Filters,HYD001,106658,72,422,Overstocked,87459560
+P003,Air Filter AF-120,Filters,DEL001,104884,31,190,Overstocked,86004880
+P020,Pivot Pin PP-12,Pins & Bushes,CHN001,113260,84,454,Overstocked,84945000
+P003,Air Filter AF-120,Filters,AHM001,102501,48,475,Overstocked,84050820
+P020,Pivot Pin PP-12,Pins & Bushes,DEL001,104360,24,140,Overstocked,78270000
+P020,Pivot Pin PP-12,Pins & Bushes,PUN001,102734,16,140,Overstocked,77050500
+P020,Pivot Pin PP-12,Pins & Bushes,AHM001,102706,28,270,Overstocked,77029500
+P020,Pivot Pin PP-12,Pins & Bushes,HYD001,102636,46,273,Overstocked,76977000
+P020,Pivot Pin PP-12,Pins & Bushes,KOL001,99570,53,355,Overstocked,74677500
+P002,Engine Oil Filter OF-90,Filters,HYD001,121013,64,383,Overstocked,54455850
+P002,Engine Oil Filter OF-90,Filters,AHM001,110279,27,179,Overstocked,49625550
+P002,Engine Oil Filter OF-90,Filters,DEL001,108628,35,261,Overstocked,48882600
+P002,Engine Oil Filter OF-90,Filters,KOL001,107584,73,511,Overstocked,48412800
+P002,Engine Oil Filter OF-90,Filters,CHN001,105885,76,465,Overstocked,47648250
+P002,Engine Oil Filter OF-90,Filters,PUN001,101623,27,180,Overstocked,45730350
+P017,Fan Belt FB-30,Belts,HYD001,117058,23,172,Overstocked,37458560
+P008,Bucket Tooth BT-10,Attachments,AHM001,109281,57,430,Overstocked,37155540
+P008,Bucket Tooth BT-10,Attachments,CHN001,108381,75,477,Overstocked,36849540
+P008,Bucket Tooth BT-10,Attachments,DEL001,106667,69,572,Overstocked,36266780
+P017,Fan Belt FB-30,Belts,DEL001,112971,72,479,Overstocked,36150720
+P017,Fan Belt FB-30,Belts,AHM001,109921,82,542,Overstocked,35174720
+P008,Bucket Tooth BT-10,Attachments,HYD001,101753,75,467,Overstocked,34596020
+P017,Fan Belt FB-30,Belts,KOL001,108003,56,344,Overstocked,34560960
+P017,Fan Belt FB-30,Belts,CHN001,106266,45,300,Overstocked,34005120
+P008,Bucket Tooth BT-10,Attachments,KOL001,99461,30,262,Overstocked,33816740
+P008,Bucket Tooth BT-10,Attachments,PUN001,99151,17,147,Overstocked,33711340
+P017,Fan Belt FB-30,Belts,PUN001,104847,56,331,Overstocked,33551040
+P027,O-Ring Set OR-50,Seals,PUN001,112683,58,376,Overstocked,29297580
+P027,O-Ring Set OR-50,Seals,AHM001,108337,33,294,Overstocked,28167620
+P027,O-Ring Set OR-50,Seals,DEL001,106775,26,193,Overstocked,27761500
+P027,O-Ring Set OR-50,Seals,HYD001,104746,29,211,Overstocked,27233960
+P027,O-Ring Set OR-50,Seals,KOL001,100477,54,385,Overstocked,26124020
+P027,O-Ring Set OR-50,Seals,CHN001,97973,19,133,Overstocked,25472980
+P026,Grease Cartridge GC-5,Lubricants,CHN001,108895,33,181,Overstocked,19601100
+P026,Grease Cartridge GC-5,Lubricants,HYD001,108348,54,314,Overstocked,19502640
+P026,Grease Cartridge GC-5,Lubricants,PUN001,105190,33,189,Overstocked,18934200
+P026,Grease Cartridge GC-5,Lubricants,AHM001,103793,65,445,Overstocked,18682740
+P026,Grease Cartridge GC-5,Lubricants,DEL001,103678,22,186,Overstocked,18662040
+P026,Grease Cartridge GC-5,Lubricants,KOL001,101412,59,445,Overstocked,18254160
